@@ -26,6 +26,23 @@ editing software tools that ten years earlier would have cost tens of
 thousands of dollars
 -->
 
+Googleがきりひらいた慣行のおかげで、今日の世界は、永遠にベータ版として決して完成することのないWebアプリケーションとWebサービス上で動くものを使っている。これらのアプリケーションやサービスはリモートサーバーで動いているため、消費者が何もすることなく、いつでも更新できる−−事実、Googleは一日に数回は検索アルゴリズムを更新している。同様に、Facebookもコードを毎日更新し、壊れることもある。（オフィスのポスターに示されたFacebookのモットーは、「どんどん動いて、どんどん壊せ」だ。）変化し続ける世界へようこそ−−世界は変化の乏しい重工業機械ではなく、いまや常に流動的なソフトウェアによって定義される。
+
+<!--
+Thanks to the practices pioneered by Google, the world is now
+used to running on web applications and services that have never
+been officially completed but remain forever in Beta stage. Since
+these applications and services run on the remote servers, they can
+be updated anytime without consumers having to do anything—
+and in fact, Google is updating its search algorithm code a few
+times a day. Similarly, Facebook is also updating its code daily,
+and sometimes it breaks. (Facebook’s motto expressed in posters
+around its offices is “Move Fast and Break Things.”) Welcome to
+the world of permanent change—the world that is now defined
+not by heavy industrial machines that change infrequently, but by
+software that is always in flux.
+-->
+
 Software, ot the engine of contemporary societies
 --
 
