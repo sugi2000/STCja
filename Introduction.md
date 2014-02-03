@@ -26,7 +26,7 @@ editing software tools that ten years earlier would have cost tens of
 thousands of dollars
 -->
 
-Googleがきりひらいた慣行のおかげで、今日の世界は、永遠にベータ版として決して完成することのないWebアプリケーションとWebサービス上で動くものを使っている。これらのアプリケーションやサービスはリモートサーバーで動いているため、消費者が何もすることなく、いつでも更新できる−−事実、Googleは一日に数回は検索アルゴリズムを更新している。同様に、Facebookもコードを毎日更新し、壊れることもある。（オフィスのポスターに示されたFacebookのモットーは、「どんどん動いて、どんどん壊せ」だ。）変化し続ける世界へようこそ−−世界は変化の乏しい重工業機械ではなく、いまや常に流動的なソフトウェアによって定義される。
+Googleがきりひらいた慣行のおかげで、今日の世界は、永遠にベータ版として決して完成することのないWebアプリケーションとWebサービス上で動くものを使っている。これらのアプリケーションやサービスはリモートサーバーで動いているため、消費者が何もすることなく、いつでも更新できる−−事実、Googleは一日に数回は検索アルゴリズムを更新している。同様に、Facebookもコードを毎日更新し、壊れることもある。（オフィスのポスターに示されたFacebookのモットーは、「どんどん動いて、どんどん壊せ」だ。）変化し続ける世界へようこそ−−世界は変化の乏しい重工業機械によってではなく、いまや常に流動的なソフトウェアによって定義される。
 
 <!--
 Thanks to the practices pioneered by Google, the world is now
@@ -41,6 +41,24 @@ around its offices is “Move Fast and Break Things.”) Welcome to
 the world of permanent change—the world that is now defined
 not by heavy industrial machines that change infrequently, but by
 software that is always in flux.
+-->
+
+なぜ人文学者、社会科学者、メディア研究者、文化批評者がソフトウェアを扱うべきなのか。クラフトやファインアートといった一部の文化領域をのぞいて、文化的生産物の作成、保存、配布、アクセスをおこなう20世紀以前に使われていた様々な物理的、機械的、電気的なテクノロジーをソフトウェアが置き換えたからだ。Word（あるいはオープンソースの代替ソフト）で手紙を書くとき、人々はソフトウェアを使っている。BloggerやWordPressでブログ投稿を構成しているとき、人々はソフトウェアを使っている。ツイートし、Facebookでメッセージを投稿し、YouTubeの何十億ものビデオから検索し、Scribdでテキストを読むとき、人々はソフトウェアを使っている（より具体的には、−−Webブラウザを通してアクセスされサーバに存在するソフトウェアである−−「Webアプリケーション」や「Webウェア」と呼ばれるカテゴリのソフトウェア）。
+
+<!--
+Why should humanists, social scientists, media scholars, and
+cultural critics care about software? Because outside of certain
+cultural areas such as crafts and fine art, software has replaced a
+diverse array of physical, mechanical, and electronic technologies
+used before the twenty-first century to create, store, distribute and
+access cultural artifacts. When you write a letter in Word (or its
+open source alternative), you are using software. When you are
+composing a blog post in Blogger or WordPress, you are using
+software. When you tweet, post messages on Facebook, search
+through billions of videos on YouTube, or read texts on Scribd,
+you are using software (specifically, its category referred to as “web
+applications” or “webware”—software which is accessed via web
+browsers and which resides on the servers).
 -->
 
 Software, ot the engine of contemporary societies
