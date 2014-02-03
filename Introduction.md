@@ -61,7 +61,7 @@ applications” or “webware”—software which is accessed via web
 browsers and which resides on the servers).
 -->
 
-さらに、テレビゲームで遊び、ミュージアムでインタラクティブなインスタレーションを体験し、建物を設計し、長編映画にSFXを追加し、Webサイトをデザインし、映画のレビューを読んだり、実際の映画を見るために携帯電話を使い、そのほか何千もの文化的活動を持ち出すとき、現実的に言えば、人々は同じこと−−ソフトウェアを使っているのだ。ソフトウェアは私たちと世界、他者、記憶、想像とのインターフェースとなった−−世界が話すユニバーサルな言語であり、世界を動かすユニバーサルなエンジンだ。20世紀初頭にあった電気と内燃機関にあたるものが、21世紀のソフトウェアだ。
+さらに、テレビゲームで遊び、ミュージアムでインタラクティブなインスタレーションを体験し、建物を設計し、長編映画にSFXを追加し、Webサイトをデザインし、映画のレビューを読んだり、実際の映画を見るために携帯電話を使い、そのほか何千もの文化的活動を持ち出すとき、現実的に言えば、人々は同じことをしている−−ソフトウェアを使っているのだ。ソフトウェアは私たちと世界、他者、記憶、想像とのインターフェースになった−−世界が話すユニバーサルな言語であり、世界を動かすユニバーサルなエンジンだ。20世紀初頭にあった電気と内燃機関にあたるものが、21世紀のソフトウェアだ。
 
 <!--
 And when you play a video game, explore an interactive installation
@@ -75,6 +75,23 @@ language through which the world speaks, and a universal engine
 on which the world runs. What electricity and the combustion
 engine were to the early twentieth century, software is to the early
 twenty-first century.
+-->
+
+この本は「メディア・ソフトウェア」−−Word、PowerPoint、Photoshop、Illustrator、After Effects、Final Cut、Firefox、Blogger、WordPress、Google Earth、Maya、3ds Maxといったプログラム−−を取り扱う。これらのプログラムは、画像、映像、3D、テキスト、地図、インタラクティブな要素、さらにこれらの要素をさまざまに組み合わせたWebサイト、インタラクティブなアプリケーション、モーション・グラフィックス、仮想地球等の制作、発表、共有、リミックスができる。メディア・ソフトウェアは、FirefoxやChromeのようなWebブラウザ、電子メールやチャットのプログラム、ニュース・リーダー、メディア・コンテンツのアクセスを主目的とするその他のソフトウェア・アプリケーションも含む（制作、編集機能をそなえたものもある）。
+
+<!--
+This book is concerned with “media software”—programs
+such as Word, PowerPoint, Photoshop, Illustrator, After Effects,
+Final Cut, Firefox, Blogger, WordPress, Google Earth, Maya, and
+3ds Max. These programs enable creation, publishing, sharing,
+and remixing of images, moving image sequences, 3D designs,
+texts, maps, and interactive elements, as well as various combinations
+of these elements such as websites, interactive applications,
+motion graphics, virtual globes, and so on. Media software also
+includes web browsers such as Firefox and Chrome, email and chat
+programs, news readers, and other types of software applications
+whose primary focus is accessing media content (although they
+sometimes also include some authoring and editing features.)
 -->
 
 Software, ot the engine of contemporary societies
