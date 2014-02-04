@@ -25,6 +25,8 @@ Software Takes Command Japanese Translation
 
 ライセンス
 ----------
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  
+This work is published subject to a Creative Commons AttributionNon-Commercial Licence.You may share this work for non-commercial purposes only, provided you give attribution to the copyright holder and the publisher. For permission to publish commercial versions please contact Bloomsbury Academic.
+
 &copy; Lev Manovich 2003  
 &copy; Tatsuo Sugimoto 2014  
-(cc) Creative Commons Attribution Non-Commercial Licence
