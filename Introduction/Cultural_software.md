@@ -13,11 +13,11 @@
 German media and literary theorist Friedrich Kittler wrote that students today should know at least two software languages: only “then they’ll be able to say something about what ‘culture’ is at the moment.”19 Kittler himself programmed in an assembler language—which probably determined his distrust of Graphical User Interfaces and modern software applications that use these interfaces. In a classical modernist move, Kittler argued that we need to focus on the “essence” of the computer—which for Kittler meant its mathematical and logical foundations and its early history characterized by tools such as assembler languages.
 -->
 
-本書は、プログラマー、コンピュータ・アニメーター、デザイナー、メディア・アーティスト、教師としてコンピュータと関わりあった私の個人史の影響を受けている。
-その関わりは1980年代初頭に始まった。
+本書は、プログラマー、コンピュータ・アニメーター、デザイナー、メディア・アーティスト、教師としてコンピュータと関わりあった私自身の来歴の影響を受けている。
+その関わりあいは、1980年代初頭から始まっている。
 当時は、アセンブラ・プログラミングよりも、手続き型プログラミング(Pascal)の年代だった。
 また、PCの登場、デスクトップ・パブリッシングの出現と普及、何人かの文芸研究者によるハイパーテキストの使用がみられた年代でもあった。
-じっさい、わたしがモスクワからニューヨークに来た1981年は、IBMが同社初のPCを発表した年だった。
+じっさい、私がモスクワからニューヨークに来た1981年は、IBMが同社初のPCを発表した年だった。
 Apple IIe上でコンピュータ・グラフィックスを初めて体験したのは、1983、4年のことだった。
 1984年に、私ははじめて商業的成功をおさめたApple Macintosh上に実装されたグラフィカル・ユーザ・インタフェースを見た。
 同じ年、世界初のコンピュータ・アニメーション企業のひとつであるデジタル・エフェクト社の職を得た。
@@ -26,7 +26,7 @@ Apple IIe上でコンピュータ・グラフィックスを初めて体験し�
 1987年1月、アドビ・システムズはIllustratorを出荷し、続いて1989年にはPhotoshopを出荷した。
 同年、[ジェームズ・キャメロン](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3)監督の『アビス』が公開された。
 この作品は、複雑なヴァーチャル・キャラクターを作るため画期的なCGIを使った初の映画だった。
-そして、1990年のクリスマスまでには、[ティム・バーナーズ＝リー](http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%AA%E3%83%BC)が、今日存在するワールド・ワイド・ウェブのすべての構成部品（コンポーネント）−−Webサーバ、Webページ、Webブラウザ−−をすでに作っていた。
+そして、1990年のクリスマスには、[ティム・バーナーズ＝リー](http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%AA%E3%83%BC)が、現存するワールド・ワイド・ウェブのすべての構成要素（コンポーネント）であるWebサーバ、Webページ、Webブラウザをすでに作っていた。
 <!--
 This book is determined by my own history of engagement with computers as a programmer, computer animator and designer, media artist, and as a teacher. This involvement started in the early 1980s, which was the decade of procedural programming (Pascal), rather than assembly programming. It was also the decade that saw the introduction of PCs, the emergence and popularization of desktop publishing, and the use of hypertext by some literary scholars. In fact, I came to NYC from Moscow in 1981, which was the year IBM introduced their first PC. My first experience with computer graphics was in 1983–4 on Apple IIe. In 1984 I saw a Graphical User Interface in its first successful commercial implementation on an Apple Macintosh. The same year I got a job at Digital Effects, one of the first computer animation companies in the world, where I learned how to program 3D computer models and animations. In 1986 I was writing computer programs that automatically processed photographs to make them look like paintings. In January 1987 Adobe Systems shipped Illustrator,
 followed by Photoshop in 1989. The same year saw the release of The Abyss, directed by James Cameron. This movie used pioneering CGI to create the first complex virtual character. And, by Christmas of 1990, Tim Berners-Lee had already created all the components of the World Wide Web as it exists today: a web server, web pages, and a web browser.
@@ -80,17 +80,3 @@ mind that this is just one possible specific categorization systemamong many).
 Technically, this software may be implemented in a variety of ways. Popular implementations (referred to in the computer industry as “software architecture”) include stand-alone applications that run on the user’s computing device, distributed applications (a client
 running on the user’s device communicates with software on the server), and peer-to-peer networks (each computer becomes both a client and a server). If all this sounds completely unfamiliar, do not worry: all you need to understand is that “cultural software” as I will use this term covers a wide range of products and network services, as opposed to only single desktop applications such as Illustrator, Photoshop or After Effects that dominated media authoring in the 1990s and 2000s. For example, social network services such as Facebook and Twitter include multiple programs and databases running on company servers (for instance, in 2007 Google was running over one million servers around the world according to one estimate21) and the programs (called “clients”) used by people to send emails, chat, post updates, upload video, leave comments, and perform other tasks on these services. (For instance, one can access Twitter using twitter.com, or tweetdeck. com, Twitter apps for iOS, Android, and dozens of third party websites and apps.)
 -->
-
-
-Media applications
---
-
-From documents to performances
---
-
-Why the history of cultural software does not exist
---
-
-Summery of the book's narrative
---
-

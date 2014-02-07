@@ -24,16 +24,38 @@ The first category is software for creating, editing, and organizing media conte
 The second category is software for distributing, accessing, and combining (or “publishing,” “sharing,” and “remixing”) media content on the web. Think Firefox, Chrome, Blogger, WordPress, Tumblr, Pinterest, Gmail, Google Maps, YouTube, Vimeo and
 other web applications and services. Obviously, the first and second categories overlap—for example, many desktop media applications allow you to upload your creations directly to popular media sharing sites, while many web applications and services include some authoring and editing functions (for example, YouTube has a built-in video editor). And blogging platforms and email clients sit right in the middle—they are used as much for publishing as for creating new content.
 -->
+
+私たちはみなアプリケーション・プログラム、すなわち「アプリ」を使うので、この用語の基本的理解はもっているだろう。
+同様に、それを定義するには二通りあることは確実だが、デジタル文化における「コンテンツ」が何を指しているのかも理解できていると思う。
+私たちは、メディア・ソフトウェアやソーシャルメディアやサイトが提供するツールによって制作され、共有され、アクセスされたメディアのさまざまなタイプを挙げることができる。
+文章、画像、デジタル映像、アニメーション、３次元オブジェクトやシーン、地図、それにこれらやほかのメディアの多様な組み合わせだ。
+あるいは、ジャンルを挙げることで「コンテンツ」を定義することができる。
+例えば、Webページ、ツイート、Facebook更新、カジュアル・ゲーム、マルチプレイヤー・オンライン・ゲーム、ユーザ生成映像、検索エンジンの検索結果、URL、地図の場所、共有ブックマークなどだ。
 <!--
 I will take for granted that since we all use application programs, or “apps,” we have a basic understanding of this term. Similarly, I also assume that we understand what “content” refers to in digital culture, but just to be sure, here are a couple of ways to define it. We can simply list various types of media which are created, shared, and accessed with media software and the tools provided by social media and sites: texts, images, digital video, animations, 3D objects and scenes, maps, as well as various combinations of these and other media. Alternatively, we can define “content” by listing genres, for instance, web pages, tweets, Facebook updates, casual games, multiplayer online games, user-generated video, search engine results, URLs, map locations, shared bookmarks, etc.
 -->
+
+デジタル文化はコンテンツのモジュール化を進める。
+すなわちユーザは、コンテンツの要素の制作、配布、再利用が可能になる。
+ループ・アニメーションは映像の背景に使われ、3次元物体はより複雑な3次元アニメーション制作に使われ、コードの断片はWebサイトやブログに使われる
+（このモジュール性は、関数や手続きと呼ばれる再利用可能な小さな部分からコンピュータ・プログラムを設計する現代的ソフトウェア工学の基本的な原則と関連している）。
+こうした部分もすべて「コンテンツ」とみなされる。
 <!--
 Digital culture tends to modularize content, i.e., enabling users to create, distribute, and re-use discrete content elements—looping animations to be used as backgrounds for videos, 3D objects to be used in creating complex 3D animations, pieces of code to be used in websites and blogs, etc.16 (This modularity parallels the fundamental principle of modern software engineering to design computer programs from small reusable parts called functions or procedures.) All such parts also qualify as “content.”
 -->
+
+1970年代後半から2000年代中盤にかけて、メディア編集のためのアプリケーション・プログラムは、ユーザーのコンピュータ（ミニコン、PC、科学用ワークステーション、そして後年はラップトップ）上で実行されるように設計されていた。
+その後の5年間で、徐々に企業は「クラウド」で実行可能なこれらのプログラムのバージョンを作った。
+これらのプログラムのなかには企業のWebサイトを通じて提供されているものもある（[Google Docs](http://docs.google.com/)、[Microsoft Web Office](http://office.microsoft.com/ja-jp/web-apps/)）。一方、メディア・ホスティングやソーシャルメディア・サービスと統合したものもある（[Photobucket](http://photobucket.com/)の画像、映像エディタなど）。
+多くのアプリケーションは、携帯電話、タブレット、TVプラットフォームで実行され、サーバーやWebサイトと通信するクライアントとして実装されている（iPhoneの地図など）。
+そうしたプラットフォームとして、AppleのiOS、GoogleのAndroid、LGのスマートTVアプリプラットフォームがある。
+ほかにも、iPad用のAdobe Photoshop Touchのようなタブレットで動作するアプリもある（執筆時点において、Webベースのアプリケーションとモバイル・アプリケーションはいずれもデスクトップのアプリケーションに比べて編集機能が限られているが、本書が読まれる頃にはすでに状況が変化しているかもしれない）。
 <!--
-Between the late 1970s and the middle of the 2000s, appli- cation programs for media editing were designed to run on a user’s computer (minicomputers, PCs, scientific workstations, and later, laptops). In the next five years, companies gradually created more and more capable versions of these programs running in the “cloud.” Some of these programs are available via their own websites (Google Docs, Microsoft Web Office), while others are integrated with media hosting or social media services (e.g., Photobucket image and video editor). Many applications are implemented as clients that run on mobile phones (e.g., Maps on iPhone), tablets, and TV platforms and communicate with servers and websites. Examples of such platforms are Apple’s iOS,
+Between the late 1970s and the middle of the 2000s, application programs for media editing were designed to run on a user’s computer (minicomputers, PCs, scientific workstations, and later, laptops). In the next five years, companies gradually created more and more capable versions of these programs running in the “cloud.” Some of these programs are available via their own websites (Google Docs, Microsoft Web Office), while others are integrated with media hosting or social media services (e.g., Photobucket image and video editor). Many applications are implemented as clients that run on mobile phones (e.g., Maps on iPhone), tablets, and TV platforms and communicate with servers and websites. Examples of such platforms are Apple’s iOS,
 Google’s Android, and LG’s Smart TV App platform. Still others are apps running on tablets such as Adobe Photoshop Touch for iPad.22 (While at the moment of writing both web-based and mobile applications have limited editing capabilities in comparison with their desktop counterparts, this may already have changed by the time you are reading this book).
 -->
+
+
 <!--
 The development of mobile software platforms led to the increasing importance of certain media application types (and corresponding cultural activities) such as “media uploaders” (apps designed for uploading media content to media sharing sites). To put this differently, managing media content (for example, organ- izing photos in Picasa) and also “meta-managing” (i.e. managing the systems which manage it such as organizing a blogroll) have become as central to a person’s cultural life as creating this content.
 -->
