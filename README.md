@@ -1,15 +1,28 @@
-Software Takes Command Japanese Translation
-===========================================
+#"Software Takes Command" Japanese Translation Project
 
-目次
---
+##About this project
+
+レフ・マノヴィッチ[『ソフトウェアが指揮を執る』](http://j.mp/1arlNqb)(2013)の日本語訳プロジェクトです。
+
+Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Media*, Bloomsbury Academic.
+
+原文は Creative Commons BY NC のライセンスで出版されています。
+そこでこの日本語訳も同じライセンスでgithub上で逐次公開することにしました。
+
+不完全な試訳ですが、なるべく読みやすい翻訳をこころがけています。
+語訳のご指摘は、@sugi2000宛てやPull Requestでお願いします。
+正確なテキストは原文を参照してください。
+
+オリジナルにはないハイパーリンクをつけています。
+
+##目次
 
 - 序章
 	- [メディアの理解](Introduction/Understanding_Media.md)
-	- [ソフトウェア、あるいは現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)
-	- ソフトウェア・スタディーズとは何か
-	- カルチュラル・ソフトウェア
-	- メディア・アプリケーション
+	- [ソフトウェア、すなわち現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)
+	- [ソフトウェア・スタディーズとは何か](Introduction/What_is_software_studies.md)
+	- [カルチュラル・ソフトウェア](Introduction/Cultural_software.md)
+	- [メディア・アプリケーション](Introduction/Media_application.md)
 	- 文書からパフォーマンスまで
 	- カルチュラル・ソフトウェア史が存在しない理由
 	- 本書の流れ
