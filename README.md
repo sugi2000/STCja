@@ -1,4 +1,4 @@
-#"Software Takes Command" Japanese Translation Project
+###"Software Takes Command" Japanese Translation Project
 
 ##About this project
 
