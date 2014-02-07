@@ -3,10 +3,12 @@
 ##カルチュラル・ソフトウェア
 <!--Cultural software-->
 
-ドイツのメディアと文芸の理論家フリードリヒ・キットラーは、現在の学生に少なくとも二つのソフトウェア言語を覚えたほうがよい、それでようやく「現在の「文化」について語ることができるようになる」と書いた。
+ドイツのメディアと文芸の理論家[フリードリヒ・キットラー](http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%82%AD%E3%83%83%E3%83%88%E3%83%A9%E3%83%BC)は、現在の学生に少なくとも二つのソフトウェア言語を覚えたほうがよい、それでようやく「現在の「文化」について語ることができるようになる[^19]」と書いた。
 キットラー自身はアセンブラ言語の教育を受けている。
 このことはおそらくグラフィカル・ユーザ・インタフェースとそのインタフェースを使ったモダンなソフトウェア・アプリケーションに対する彼の不信に影響を与えている。
 古典的なモダニスト行動のなかで、キットラーはコンピュータの「本質」に着目する必要があることを議論した。キットラーにとって、それは算術的かつ論理的な基礎であり、アセンブラ言語のようなツールによって特徴づけられている草創期の歴史を意味していた。
+
+[^19]: Friedrich Kittler, ‘Technologies of Writing/Rewriting Technology, ’Auseinander1, no. 3 (Berlin, 1995), quoted in Michael Truscello, “The Birth of Software Studies: Lev Manovich and Digital Materialism,” Film-Philosophy 7, no. 55 (December 2003), http://www.film-philosophy.com/vol7-2003/n55truscello.html
 <!--
 German media and literary theorist Friedrich Kittler wrote that students today should know at least two software languages: only “then they’ll be able to say something about what ‘culture’ is at the moment.”19 Kittler himself programmed in an assembler language—which probably determined his distrust of Graphical User Interfaces and modern software applications that use these interfaces. In a classical modernist move, Kittler argued that we need to focus on the “essence” of the computer—which for Kittler meant its mathematical and logical foundations and its early history characterized by tools such as assembler languages.
 -->
@@ -22,9 +24,9 @@ Apple IIe上でコンピュータ・グラフィックスを初めて体験し�
 ここで3次元のコンピュータ・モデルとアニメーションのプログラム方法を学んだ。
 1986年、私は、写真を自動的に絵画風にするコンピュータ・プログラムを書いていた。
 1987年1月、アドビ・システムズはIllustratorを出荷し、続いて1989年にはPhotoshopを出荷した。
-同年、ジェームス・キャメロン監督の『アビス』が公開された。
-同作は、複雑なヴァーチャル・キャラクターを作るため画期的なCGIを使った初の映画だった。
-そして、1990年のクリスマスまでには、ティム・バーナーズ-リーが、今日存在するワールド・ワイド・ウェブのすべての構成部品（コンポーネント）−−Webサーバ、Webページ、Webブラウザ−−をすでに作っていた。
+同年、[ジェームズ・キャメロン](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3)監督の『アビス』が公開された。
+この作品は、複雑なヴァーチャル・キャラクターを作るため画期的なCGIを使った初の映画だった。
+そして、1990年のクリスマスまでには、[ティム・バーナーズ＝リー](http://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8A%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%AA%E3%83%BC)が、今日存在するワールド・ワイド・ウェブのすべての構成部品（コンポーネント）−−Webサーバ、Webページ、Webブラウザ−−をすでに作っていた。
 <!--
 This book is determined by my own history of engagement with computers as a programmer, computer animator and designer, media artist, and as a teacher. This involvement started in the early 1980s, which was the decade of procedural programming (Pascal), rather than assembly programming. It was also the decade that saw the introduction of PCs, the emergence and popularization of desktop publishing, and the use of hypertext by some literary scholars. In fact, I came to NYC from Moscow in 1981, which was the year IBM introduced their first PC. My first experience with computer graphics was in 1983–4 on Apple IIe. In 1984 I saw a Graphical User Interface in its first successful commercial implementation on an Apple Macintosh. The same year I got a job at Digital Effects, one of the first computer animation companies in the world, where I learned how to program 3D computer models and animations. In 1986 I was writing computer programs that automatically processed photographs to make them look like paintings. In January 1987 Adobe Systems shipped Illustrator,
 followed by Photoshop in 1989. The same year saw the release of The Abyss, directed by James Cameron. This movie used pioneering CGI to create the first complex virtual character. And, by Christmas of 1990, Tim Berners-Lee had already created all the components of the World Wide Web as it exists today: a web server, web pages, and a web browser.
@@ -50,20 +52,20 @@ If software is indeed the contemporary equivalent of the combustion engine and e
 -->
 
 「カルチュラル・ソフトウェア」という用語は、以前にも比喩的に使われていた
-（J・M・バルキン著『Cultural Software: A Theory of Ideology』(2003)を見よ）
+（J・M・バルキン著[『Cultural Software: A Theory of Ideology』](http://j.mp/1fOi0FS)(2003)を見よ）
 ものの、私はこの用語を、我々が通常「文化」と連想する活動をサポートする特定のソフトウェアの種類をさすものとして使っていく。
 ソフトウェアが可能にした文化的諸活動は、いくつかのカテゴリーに分類することができる（もちろん、これは数あるうちの一つの考えうる分類であることに留意してほしい）。
 <!--
 While the term “cultural software” was previously used metaphorically (see J. M. Balkin, Cultural Software: A Theory of Ideology, 2003), I am going to use it literally to refer to certain types of software that support actions we normally associate with “culture.” These cultural actions enabled by software can be divided into a number of categories (of course we should keep in
 mind that this is just one possible specific categorization systemamong many).
 -->
-1. 表象、概念、信仰、美的価値を含んだ文化的作品やインタラクティヴなサービスを作成すること。（例えば、ミュージックヴィデオの編集、製品パッケージのデザイン、Webサイトやアプリの設計）。
-2. そうした作品（の一部）をオンラインでアクセス、追加、共有、リミックスすること（例えば、Web上の新聞講読、YouTubeヴィデオの試聴、ブログ記事のコメントの追加）。
-3. 情報や知識をオンラインで生成し共有すること（例えば、Wikipedia項目の編集、Google Earth上の場所の追加、ツイート内のリンク掲載）。
-4. 電子メール、インスタント・メッセージ、ボイス・オーバー・IP、オンライン・テキスト、ビデオ・チャット、ソーシャル・ネットワーキングの機能（ウォール投稿、ポーク、イベント、写真タグ、ノート、場所など）を使った他者との交流。
-5. インタラクティヴで文化的な経験への参加（例えば、コンピュータ・ゲームのプレイ）。
-6. 好みを表明したりメタデータを追加することによる、オンラインの情報生態系へ参加（例えば、Google検索の利用時の新情報の自動生成、Google+の「+1」ボタンやFacebookの「いいね」ボタンのクリック、Twitterの「リツイート」機能の使用）。
-7. これらすべての活動をサポートするソフトウェア・ツールやサービスの開発（例えば、インターネットを通じてデータの送受信を可能にするProcessingのためのライブラリのプログラミング、Photoshopのプラグインの開発、WordPressのテーマの制作）。
+1. **表象、概念、信仰、美的価値を含んだ文化的作品やインタラクティヴなサービスの制作**（例えば、ミュージックヴィデオの編集、製品パッケージのデザイン、Webサイトやアプリの設計）。
+2. **そうした作品（の一部）のオンライン上でのアクセス、追加、共有、リミックス**（例えば、Web上の新聞講読、YouTubeヴィデオの試聴、ブログ記事のコメントの追加）。
+3. **オンラインの情報や知識の制作や共有**（例えば、Wikipedia項目の編集、Google Earth上の場所の追加、ツイート内のリンク掲載）。
+4. 電子メール、インスタント・メッセージ、ボイス・オーバー・IP、オンライン・テキスト、ビデオ・チャット、ソーシャル・ネットワーキングの機能（ウォール投稿、ポーク、イベント、写真タグ、ノート、場所など）を使った**他者との交流**。
+5. **インタラクティヴで文化的な経験への参加**（例えば、コンピュータ・ゲームのプレイ）。
+6. **好みを表明したりメタデータを追加したりすることでのオンラインの情報生態系へ参加**（例えば、Google検索の利用時の新情報の自動生成、Google+の「+1」ボタンやFacebookの「いいね」ボタンのクリック、Twitterの「リツイート」機能の使用）。
+7. **これらすべての活動をサポートするソフトウェア・ツールやサービスの開発**（例えば、インターネットを通じてデータの送受信を可能にするProcessingのためのライブラリのプログラミング、Photoshopのプラグインの開発、WordPressのテーマの制作）。
 <!--
 1 Creating cultural artifacts and interactive services which contain representations, ideas, beliefs, and aesthetic values (for instance, editing a music video, designing a package for a product, designing a website or an app).2 Accessing, appending, sharing, and remixing such artifacts (or their parts) online (for instance, reading newspaper on the web, watching YouTube video, adding comments to a blog post).3 Creating and sharing information and knowledge online (for instance, editing a Wikipedia article, adding places in Google Earth, including a link in a tweet).4 Communicating with other people using email, instant message, voice-over IP, online text and video chat, social networking features such as wall postings, pokes, events, photo tags, notes, places, etc.5 Engaging in interactive cultural experiences (for instance, playing a computer game).6 Participating in the online information ecology by expressing preferences and adding metadata (for instance, automatically generating new information for Google Search whenever you use this service; clicking the “+1” button on Google+ or the “Like” button on Facebook; using the “retweet” function on Twitter).7 Developing software tools and services that support all these activities (for instance, programming a library for Processing that enables sending and receiving data over the Internet;20 writing a new plugin for Photoshop, creating a new theme for WordPress).
 -->

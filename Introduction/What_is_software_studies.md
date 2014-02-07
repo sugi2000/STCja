@@ -32,7 +32,7 @@ The book that first comprehensively demonstrated the necessity of the second app
 
 2006年2月、すでに文化としてのソフトウェアについて先駆的な本（
 [『Behind the Blip: essays on the culture of software』(2003)](http://j.mp/ITQuKo)
-）を刊行していたマシュー・フラーは、ロッテルダムのピエト・ズワルト研究所で初のソフトウェア・スタディーズ・ワークショップを開催した。
+）を刊行していたマシュー・フラーは、ロッテルダムのピエト・ズワルト研究所で初の「ソフトウェア・スタディーズ・ワークショップ」を開催した。
 フラーはワークショップの紹介で次のように書いた。
 「ソフトウェアは、ネットワーク化したコンピュテーションのデジタルメディアの理論化と研究においてしばしば見落とされている。ソフトウェアは、メディアデザインの根底となる基盤であり「本質」である。この意味において、現在の知的生産物はすべて、ソフトウェアがその媒体と文脈を与えている、「ソフトウェア・スタディ」である。しかしソフトウェアの固有の特質、重要性は、工学の対象を除いてほとんど研究されていない」。
 <!--
@@ -41,7 +41,7 @@ In February 2006 Matthew Fuller who had already published a pioneering book on s
 
 私はフラーが「現在の知的生産物はすべて「ソフトウェア・スタディ」である」と書いたことにまったく同意する。
 知識人がそれに気づくまでには、まだしばらく時間がかかるだろう。
-この変化をもたらすために、2008年、マシュー・フラー、ノア・ワードリプ-フルーインと私は、ソフトウェア・スタディーズのシリーズ書籍をMITプレスから刊行した。
+この変化をもたらすために、2008年、マシュー・フラー、ノア・ワードリプ-フルーインと私は、「ソフトウェア・スタディーズ」シリーズをMITプレスから刊行した。
 このシリーズからすでに以下の書籍が刊行されている。
 [フラー編『Software Studies: A Lexicon』(2008)](http://j.mp/17faJeA)、
 [ワードリプ-フルーイン著『Expressive Processing: Digital Fictions, Computer Games, and Software Studies』(2009)](http://j.mp/1cqSlTO)、
@@ -142,8 +142,8 @@ Lawrence Lessig, Manual Castells, Alex Galloway, and others—can also be retroa
 In his introduction to a 2006 Rotterdam workshop Fuller pointed out that “software can be seen as an object of study and an area of practice for art and design theory and the humanities, for cultural studies and science and technology studies and for an emerging reflexive strand of computer science.” Since a new academic discipline can be defined either through a unique object of study, a new research method, or a combination of the two, how shall we think of software studies? Fuller’s statement implies that “software” is a new object of study which should be put on the agenda of existing disciplines and which can be studied using already existing methods—for instance, actor-network theory, social semiotics, or media archaeology.-->
 
 この観点を裏付ける格好の理由がある。
-私はソフトウェアを現代社会のあらゆる領域に浸透した層（レイヤー）として考えている。
-したがって、制御、コミュニケーション、表象、シミュレーション、分析、判断、記憶、構想、著述、インタラクションの現代技術を理解したければ、その分析はこのソフトウェアの層を考慮しないかぎりは完遂できないのだ。
+私はソフトウェアを**現代社会のあらゆる領域に浸透した層（レイヤー）**として考えている。
+したがって、**制御、コミュニケーション、表象、シミュレーション、分析、判断、記憶、構想、著述、インタラクション**の現代技術を理解したければ、その分析はこのソフトウェアの層を考慮しないかぎりは完遂できないのだ。
 それは、現代社会や文化−−建築、デザイン、芸術批評、社会学、政治学、美術史、メディア論、科学技術論などすべて−−に関するあらゆる専門分野は、何を研究対象にしても、ソフトウェアの役割とその影響を論じる必要があることを意味している。
 <!--
 There are good reasons for supporting this perspective. I think of software as a layer that permeates all areas of contemporary societies. Therefore, if we want to understand contemporary techniques of control, communication, representation, simulation, analysis, decision-making, memory, vision, writing, and interaction, our analysis cannot be complete until we consider this software layer. Which means that all disciplines which deal with contem- porary society and culture—architecture, design, art criticism, sociology, political science, art history, media studies, science and technology studies, and all others—need to account for the role of software and its effects in whatever subjects they investigate.
@@ -184,7 +184,7 @@ In his 2006 article covering new technologies that allow people with very little
 future possibility of “a long tail for apps.”15 A few years later, this is exactly what happened. In September 2012, 700,000 apps were available on Apple App Store,16 and over 600,000 Android apps on Google Play.17
 -->
 
-ニューヨークタイムズは、[「インターネットの言語学習の大流行」](http://www.nytimes.com/2012/03/28/technology/for-an-edge-on-the-internet-computer-code-gains-a-following.html?pagewanted=all&_r=0)(2012年3月27日)と題された記事で次のように報じた。「プログラミングとWeb構築、さらにiPhoneアプリを教える夜間クラスとオンラインコースの市場はブームにある」。記事では、こうしたプログラミングやWebデザインの学習への興味の高まりの理由の一つを解説した
+「ニューヨーク・タイムズ」は、[「インターネットの言語学習の大流行」](http://www.nytimes.com/2012/03/28/technology/for-an-edge-on-the-internet-computer-code-gains-a-following.html?pagewanted=all&_r=0)(2012年3月27日)と題する記事で次のように報じた。「プログラミングとWeb構築、さらにiPhoneアプリを教える夜間クラスとオンラインコースの市場はブームにある」。記事では、こうしたプログラミングやWebデザインの学習への興味の高まりの理由の一つを解説した
 [Codecademy](http://www.codecademy.com/)
 （インタラクティブ講習でプログラミングを教えるWebスクール）の創設者の一人ザック・シムズの言葉を載せている。「人々は、自分たちが現在生活しているこの世界を理解したい真の欲求をもっている。彼らはただWebを使いたいのではなく、それがどのように動作しているのかを理解したいのだ」。
 <!--
