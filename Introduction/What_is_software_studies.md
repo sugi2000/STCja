@@ -6,7 +6,7 @@
 本書は、「ソフトウェア・スタディーズ」という理論的枠組みの発展に貢献することを目的にしている。ソフトウェア・スタディーズとは何か。いくつかの定義がある。私が知る限り、「ソフトウェア・スタディーズ」と「ソフトウェア理論」が初めて登場したのは、前著
 [『ニューメディアの言語』](http://j.mp/1ay7e2W)
 においてである。私は次のように書いた。
-「ニューメディアは、メディア理論−−その発端は、1950年代のハロルド・イニスや60年代のマーシャル・マクルーハンの著作にまで遡ることができる−−の新たな段階を要求している。ニューメディアの論理を理解するには、コンピュータ・サイエンスに助けを求めなければならない。コンピュータ・サイエンスにこそ、プログラム可能となったメディアを特徴づけるような、新しい術語、カテゴリー、オペレーションが見つかるだろう。私たちは、メディア・スタディーズから、「ソフトウェア・スタディーズ」とでも呼びうる何かに移行している−−メディア理論からソフトウェア理論に移行している」。
+「ニューメディアは、メディア理論−−その発端は、1950年代の[ハロルド・イニス](http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%AB%E3%83%89%E3%83%BB%E3%82%A4%E3%83%8B%E3%82%B9)や60年代の[マーシャル・マクルーハン](http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AB%E3%83%BC%E3%83%8F%E3%83%B3)の著作にまで遡ることができる−−の新たな段階を要求している。ニューメディアの論理を理解するには、コンピュータ・サイエンスに助けを求めなければならない。コンピュータ・サイエンスにこそ、プログラム可能となったメディアを特徴づけるような、新しい術語、カテゴリー、オペレーションが見つかるだろう。私たちは、メディア・スタディーズから、「ソフトウェア・スタディーズ」とでも呼びうる何かに移行している−−メディア理論からソフトウェア理論に移行している」。
 <!--
 This book aims to contribute to the developing intellectual paradigm of “software studies.” What is software studies? Here are a few definitions. The first comes from my The Language of New Media, where, as far as I know, the terms “software studies” and “software theory” appeared for the first time. I wrote, “New media calls for a new stage in media theory whose beginnings can be traced back to the revolutionary works of Robert Innis and Marshall McLuhan of the 1950s. To understand the logic of new media we need to turn to computer science. It is there that we may expect to find the new terms, categories, and operations that characterize media that became programmable. From media studies, we move to something which can be called software studies; from media theory—to software theory.”-->
 
@@ -25,7 +25,7 @@ Reading this statement today, I feel some adjustments are in order. It positions
 同書は、「ソフトウェア・スタディーズ」という用語を明示してはいないものの、ソフトウェアをどう考察するかについての新しいモデルを提案した。
 カルチュラル・コンピューティングの先駆者、アーティスト、同時期に活動した作家たちの重要なテキストを体系的に並べたことで、『ニューメディア・リーダー』は、同じ数々の要約にあるものをデモンストレートしている。
 つまり、しばしばカルチュラル・コンピューティングを発明した芸術家や科学者らによる同じ概念が同時につながっているということだ。
-例えばこのアンソロジーは、ホルヘ・ボルヘス(1941)の物語とヴァネヴァー・ブッシュ(1945)の論文で始まっているが、どちらもデータを整理し人間の経験をとらえる方策として巨大な分岐システムの考案をふくんでいるように。
+例えばこのアンソロジーは、[ホルヘ・ボルヘス](http://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%98%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%98%E3%82%B9)の物語(1941)と[ヴァネヴァー・ブッシュ](http://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8D%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5)の論文(1945)で始まっているが、どちらもデータを整理し人間の経験をとらえる方策として巨大な分岐システムの考案をふくんでいるように。
 <!--
 The book that first comprehensively demonstrated the necessity of the second approach was New Media Reader edited by Noah Wardrip-Fruin and Nick Montfort (The MIT Press, 2003). The publication of this groundbreaking anthology laid the framework for the historical study of software as it relates to the history of culture. Although Reader did not explicitly use the term “software studies,” it did propose a new model for how to think about software. By systematically juxtaposing important texts by pioneers of cultural computing and artists and writers active in the same historical periods, New Media Reader demonstrated that both belonged to the same larger epistemes. That is, often the same idea was simultaneously articulated independently by artists and scientists who were inventing cultural computing. For instance, the anthology opens with a story by Jorge Borges (1941) and an article by Vannevar Bush (1945) which both contain the idea of a massive branching structure as a better way to organize data and to capture human experience.
 -->
@@ -56,15 +56,15 @@ I completely agree with Fuller that, “all intellectual work is now ‘software
 -->
 
 このシリーズに加え、幸運なことにプラットフォーム・スタディーズ、デジタル人文学、サイバーカルチャー、インターネット・スタディーズ、ゲーム・スタディーズの観点からも多くの書籍が刊行されている。これらの書籍の多くに、ソフトウェアの役割をより深く理解するための重要な洞察と議論が盛り込まれている。これらすべてをリストアップするよりも、こうした観点のうち最初の二つの好例を少し紹介するだけにとどめておきたい（これを読む時には、さらに多くのものが刊行されているだろう）。プラットフォーム・スタディーズから、
-[ニック・モントフォートとイアン・ボゴスト著『Racing the Beam: The Atari Video Computer System』(2009)](http://j.mp/LS34LL)、
-[ジミー・メイハー著『The Future Was Here: The Commodore Amiga』(2012)](http://j.mp/LS31zR)
+ニック・モントフォートとイアン・ボゴスト[『Racing the Beam: The Atari Video Computer System』](http://j.mp/LS34LL)(2009)、
+ジミー・メイハー[『The Future Was Here: The Commodore Amiga』](http://j.mp/LS31zR)(2012)
 。デジタル人文学から、
-[マシュー・G・キルシェンバウム著『Mechanisms: New Media and the Forensic Imagination』(2008)](http://j.mp/OAJcep)、
-[デヴィッド・ベリー著『The Philosophy of Software: Code and Mediation in the Digital Age』(2011)](http://j.mp/LS2UUT)、
-[ステフェン・ラムゼイ著『Reading Machines: Toward an Algorithmic Criticism』(2011)](http://j.mp/LS1V79)、
-[キャサリン・ヘイルズ著『How We Think: Digital Media and Contemporary Technogenesis』(2012)](http://j.mp/LS1IAH)。
+マシュー・G・キルシェンバウム[『Mechanisms: New Media and the Forensic Imagination』](http://j.mp/OAJcep)(2008)、
+デヴィッド・ベリー[『The Philosophy of Software: Code and Mediation in the Digital Age』](http://j.mp/LS2UUT)(2011)、
+ステフェン・ラムゼイ[『Reading Machines: Toward an Algorithmic Criticism』(2011)](http://j.mp/LS1V79)、
+キャサリン・ヘイルズ[『How We Think: Digital Media and Contemporary Technogenesis』](http://j.mp/LS1IAH)(2012)。
 なお「フォーマット・スタディーズ」という新領域になるかもしれない最初の本として、
-[ジョナサン・スターン著『MP3: The Meaning of a Format』(2012)](http://j.mp/LS0Jk5)
+ジョナサン・スターン[『MP3: The Meaning of a Format』](http://j.mp/LS0Jk5)(2012)
 も関連書籍として挙げておく。
 <!--
 In addition to this series, I am also happy to see a growing number of other titles written from the perspectives of platform studies, digital humanities, cyberculture, internet studies, and game studies. Many of these books contain important insights and discussions which help us better understand the roles of software. Rather than trying to list all of them, I will only provide a few examples of works which exemplify the first two of these perspectives (more will be in press by the time you are reading this). Platform studies: Nick Montfort and Ian Bogost’s Racing the Beam: The Atari Video Computer System (2009), Jimmy Maher’s The Future Was Here: The Commodore Amiga (2012). Digital Humanities: Mechanisms: New Media and the Forensic Imagination (Matthew G. Kirschenbaum, 2008), The Philosophy of Software: Code and Mediation in the Digital Age (David Berry, 2011), Reading Machines: Toward an Algorithmic Criticism (Stephen Ramsay, 2011), How We Think: Digital Media and Contemporary Technogenesis (Katherine Hayles, 2012).9 Also highly relevant is the first book in what may become a new area of “format studies”: MP3: The Meaning of a Format (Jonathan Sterne, 2012).10
@@ -76,10 +76,10 @@ Another set of works which are relevant to understanding theroles and functioni
 -->
 
 また、現代ソフトウェアやインターネットのような情報技術の重要部分、ユーザーテストのようなソフトウェア工学の実務の発展における重要な研究所や研究集団の歴史研究からなる一連の著作がある。これらを時系列に挙げると、
-ケイティ・ハフナーとマシュー・ライアン著『インターネットの起源』(1998)、
-マイケル・ヒルツィック著『未来をつくった人々−−ゼロックス・パロアルト研究所とコンピュータエイジの黎明』(2000)、
-マーティン・キャンベル-ケリー著『From Airline Reservations to Sonic the Hedgehog: A History of the Software Industry』(2004)、
-ネイサン・エンスメンジャー著『The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise』(2011)がある。
+ケイティ・ハフナーとマシュー・ライアン『インターネットの起源』(1998)、
+マイケル・ヒルツィック『未来をつくった人々−−ゼロックス・パロアルト研究所とコンピュータエイジの黎明』(2000)、
+マーティン・キャンベル-ケリー[『From Airline Reservations to Sonic the Hedgehog: A History of the Software Industry』](http://j.mp/1fxbUXX)(2004)、
+ネイサン・エンスメンジャー[『The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise』](http://j.mp/1fxce9d)(2011)がある。
 <!--
 Yet another relevant category of books comprises the historicalstudies of important labs and research groups central to thedevelopment of modern software, other key parts of informationtechnology such as the internet, and professional practices of
 software engineering such as user testing. The examples of theseworks listed chronologically are Katie Hafner and Matthew Lyon’sWhere Wizards Stay Up Late: The Origins Of The Internet(1998), Michael Hiltzik’s Dealers of Lightning: Xerox PARC andthe Dawn of the Computer Age (2000), Martin Campbell-Kelly’sFrom Airline Reservations to Sonic the Hedgehog: A History of theSoftware Industry (2004), and Nathan Ensmenger’s The ComputerBoys Take Over: Computers, Programmers, and the Politics ofTechnical Expertise (2010).11
@@ -91,7 +91,7 @@ software engineering such as user testing. The examples of theseworks listed ch
 同書は、コンピュータとソフトウェアがたんなる「テクノロジー」ではなく、人々が新たな方法で思考し想像できるようになる新しい媒体（メディウム）だとした重要な洞察をめぐって書かれている。
 こうした理解は本書に登場する主人公たち全員が共有していた。
 概念的な「思考のための道具」を発明した
-J・C・R・リックライダー、テッド・ネルソン、ダグラス・エンゲルバート、ボブ・テイラー、アラン・ケイ、ニコラス・ネグロポンテ。
+J・C・R・リックライダー、テッド・ネルソン、ダグラス・エンゲルバート、[ボブ・テイラー](http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%96%E3%83%BB%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC)、アラン・ケイ、ニコラス・ネグロポンテ。
 （現在、人文学と社会科学の多くの大学教員は依然としてこの簡素だが基本的な概念を把握しておく必要がある。彼らは、ソフトウェアを、かたく大学のコンピューティング学科の領域の存在として思いつづけている。−−今ある人間の知的創造性にある媒体に対し、効率的にしてくれるだけのものとして。）
 <!--
 My all-time favorite book, however, remains Tools for Thought published by Howard Rheingold in 1985, right at the moment when domestication of computers and software starts, eventually leading to their current ubiquity. This book is organized around the key insight that computers and software are not just “technology” but rather the new medium in which we can think and imagine differently. Similar understanding was shared by all the heroes of this book who, with their collaborators, invented the computational “tools for thoughts”—J. C. R. Licklider, Ted Nelson, Douglass Engelbart, Bob Taylor, Alan Kay, Nicholas Negroponte. (Today many academics in humanities and social sciences still need to grasp this simple but fundamental idea. They continue to think of software as being strictly the domain of the Academic Computing Department in their universities—something which is only there to help them become more efficient, as opposed to the medium where human intellectual creativity now dwells.)
@@ -129,7 +129,7 @@ Software is deeply woven into contemporary life—economically, culturally, crea
 -->
 
 もちろん、現代の先端のメディア理論家
-−−フリードリヒ・A・キットラー、ペーター・ヴァイベル、キャサリン・ヘイルズ、ローレンス・レッシグ、マニュエル・カステル、アレックス・ギャロウェイら−−
+−−[フリードリヒ・A・キットラー](http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%92%E3%83%BB%E3%82%AD%E3%83%83%E3%83%88%E3%83%A9%E3%83%BC)、[ペーター・ヴァイベル](http://en.wikipedia.org/wiki/Peter_Weibel)、[キャサリン・ヘイルズ](http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%98%E3%82%A4%E3%83%AB%E3%82%BA)、[ローレンス・レッシグ](http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%AC%E3%83%83%E3%82%B7%E3%82%B0)、[マニュエル・カステル](http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AB%E3%82%B9%E3%83%86%E3%83%AB)、[アレックス・ギャロウェイ](http://en.wikipedia.org/wiki/Alex_Galloway)ら−−
 による諸々の先行著作も、遡ってソフトウェア・スタディーズに位置づけることができる。
 したがって私は、この枠組みが何年ものあいだすでに存在していたが、数年前までははっきり名づけられていなかったのだと確信している。
 <!--
@@ -152,7 +152,7 @@ There are good reasons for supporting this perspective. I think of software as a
 同時に、ソフトウェア・スタディーズの先行業績は、ソフトウェア自体に着目する場合、新しい方法論が求められることをあらわしている。
 すなわち、著述する対象についての実践が手助けになるということだ。
 社会と文化におけるソフトウェアの役割をもっぱら体系的に書いた知識人は、教育を受けていたか、ソフトウェアを書いたり教えたりすることをふくむ文化的プロジェクトや実践にもかかわっていたことは偶然ではない。例えば、イアン・ボゴスト、ジェイ・ボルター、フローリアン・クレイマー、ウェンディ・チュン、マシュー・フラー、アレクサンダー・ギャロウェイ、キャサリン・ヘイルズ、マシュー・キルシェンバウム、ゲールト・ローフィンク、ペーター・ルーネンフェルト、エイドリアン・マッケンジー、ポール・D・ミラー、ウィリアム・J・ミッチェル、ニック・モンフォール、ジャネット・マリー、ケイティ・サレン、ブルース・スターリング、ノア・ワードリプ-フルーイン、エリック・ジマーマン。
-対照的に、技術的な経験やかかわりのない学者−−例えば、マヌエル・カステル、ブルーノ・ラトゥール、ポール・ヴィリリオ、シーグフリード・ゼリンスキー−−は、現代のメディアとテクノロジーについて理論的に精緻な議論でひろく影響をあたえたものの、ソフトウェアについては議論しなかった。
+対照的に、技術的な経験やかかわりのない学者−−例えば、マニュエル・カステル、[ブルーノ・ラトゥール](http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB)、[ポール・ヴィリリオ](http://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%AA%E3%83%AA%E3%82%AA)、[シーグフリード・ゼリンスキー](http://en.wikipedia.org/wiki/Siegfried_Zielinski)−−は、現代のメディアとテクノロジーについて理論的に精緻な議論でひろく影響をあたえたものの、ソフトウェアについては議論しなかった。
 <!--
 At the same time, the existing work in software studies already demonstrates that if we are to focus on software itself, we need new methodologies. That is, it helps to practice what one writes about. It is not accidental that all the intellectuals who have most systematically written about software’s roles in society and culture have either programmed themselves or have been involved in cultural projects and practices which include writing and teaching software—for instance, Ian Bogost, Jay Bolter, Florian Cramer, Wendy Chun, Matthew Fuller, Alexander Galloway, Katherine
 Hayles, Matthew Kirschenbaum, Geert Lovink, Peter Lunenfeld, Adrian Mackenzie, Paul D. Miller, William J. Mitchell, Nick Montfort, Janet Murray, Katie Salen, Bruce Sterling, Noah Wardrip- Fruin, and Eric Zimmerman. In contrast, the scholars without this technical experience or involvement—for example, Manual Castells, Bruno Latour, Paul Virilio, and Siegfried Zielinski—have not included discussions of software in their otherwise theoretically precise and highly influential accounts of modern media and technology.
@@ -203,20 +203,3 @@ In spite of these impressive developments, the gap between people who can progra
 <!--
 For now, the number of people who can script and program keeps increasing. Although we are far from a true “long tail” for software, software development is gradually getting more democratized. It is, therefore, the right moment to start thinking theoretically about how software is shaping our culture, and how it is shaped by culture in its turn. The time for “software studies” has arrived.
 -->
-
-
-Cultural software
---
-
-Media applications
---
-
-From documents to performances
---
-
-Why the history of cultural software does not exist
---
-
-Summery of the book's narrative
---
-

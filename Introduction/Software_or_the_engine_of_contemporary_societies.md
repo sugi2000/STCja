@@ -3,7 +3,7 @@
 <!--Software, or the engine of contemporary societies-->
 ##ソフトウェア、すなわち現代社会のエンジン
 
-1990年代の初め、世界で最も有名なブランドは、素材や商品を製造するか物理的実体を取り扱う業界内の会社だった。しかしながら現在、もっともよく知られたグローバル・ブランドのリストの先頭には、Google、Facebook、Microsoftのような名前が並んでいる。（じっさい2007年にGoogleはブランド認知における世界一の名前になった。）そして、すくなくとも米国では、もっとも広く読まれている新聞や雑誌−−ニューヨーク・タイムズ、USAトゥデイ、ビジネス・ウィークなど−−は、Facebook、Twitter、Apple、Google、そのほかのIT企業に関する日々のニュースを特集している。
+1990年代の初め、世界で最も有名なブランドは、素材や商品を製造するか物理的実体を取り扱う業界内の会社だった。しかしながら現在、もっともよく知られたグローバル・ブランドのリストの先頭には、Google、Facebook、Microsoftのような名前が並んでいる。（じっさい2007年にGoogleはブランド認知における世界一の名前になった。）そして、すくなくとも米国では、もっとも広く読まれている新聞や雑誌−−「ニューヨーク・タイムズ」、「USAトゥデイ」、「ビジネス・ウィーク」など−−は、Facebook、Twitter、Apple、Google、そのほかのIT企業に関する日々のニュースを特集している。
 <!--
 In the beginning of the 1990s, the most famous global brands were the companies that were in the business of producing materials or goods, or processing physical matter. Today, however, the lists of best-recognized global brands are topped with the names such as Google, Facebook, and Microsoft. (In fact, in 2007 Google became number one in the world in terms of brand recognition.) And, at least in the US, the most widely read newspapers and magazines— New York Times, USA Today, Business Week, etc.—feature daily news and stories about Facebook, Twitter, Apple, Google, and other IT companies.
 -->
@@ -18,7 +18,7 @@ What about other media? When I was working on the first draft of this book in 20
 This list is very telling. The companies that deal with physical goods and energy appear in the second part of the list: General Electric, General Motors, Ford. Right before and after these three, we see two IT companies that provide hardware: Intel makes computer chips, while Cisco makes network equipment. What about the two companies which are on top: Google and Apple? The first is in the business of information (“Google’s mission is to organize the world’s information and make it universally accessible and useful”5), while the second is making consumer electronics: phones, tablets, laptops, monitors, music players, etc. But actually, they are both making something else. And apparently, this something else is so crucial to the workings of US economy—and consequently, global world as well—that these companies almost daily appear in business news. And the major Internet companies that also appear daily in news such as Google, Facebook, Twitter, Amazon, eBay, and Yahoo, are in the same business.
 -->
 
-この「何か別のもの」が、ソフトウェアだ。検索エンジン、レコメンデーション・システム、地図アプリケーション、ブログ・ツール、オークション・ツール、インスタント・メッセージ・クライアント、そしてもちろん新しいソフトウェアを開発できるプラットフォーム−−iOS、Android、Facebook、Windows、Linux−−は、世界の経済、文化、生活、また徐々に政治の中心に位置している。そしてこの「カルチュラル・ソフトウェア」−−何億もの人々によって直接使われること、文化の「アトム」を伝えることとという意味でのカルチュラル−−は、巨大なソフトウェア宇宙で見えている一部分にすぎない。
+この「何か別のもの」こそ、**ソフトウェア**である。検索エンジン、レコメンデーション・システム、地図アプリケーション、ブログ・ツール、オークション・ツール、インスタント・メッセージ・クライアント、そしてもちろん新しいソフトウェアを開発できるプラットフォーム−−iOS、Android、Facebook、Windows、Linux−−は、世界の経済、文化、生活、また徐々に政治の中心に位置している。そしてこの「カルチュラル・ソフトウェア」−−何億もの人々によって直接使われること、文化の「アトム」を伝えることとという意味でのカルチュラル−−は、巨大なソフトウェア宇宙で見えている一部分にすぎない。
 <!--
 This “something else” is software. Search engines, recommendation systems, mapping applications, blog tools, auction tools, instant messaging clients, and, of course, platforms which allow people to write new software—iOS, Android, Facebook, Windows, Linux—are in the center of the global economy, culture, social life, and, increasingly, politics. And this “cultural software”—cultural in a sense that it is directly used by hundreds of millions of people and that it carries “atoms” of culture—is only the visible part of a much larger software universe.
 -->
@@ -53,7 +53,7 @@ Even today, ten years later, when people are constantly interactingwith and upd
 
 > いくつか重要な例外がある。一つはオープンソース運動と関連する著作権と知的所有権をめぐる問題は多くの学問分野で広範囲に議論された。
 また、Google、Facebook、Amazon、eBay、Oracle、その他Webの巨大企業に関する本の流通量も着実に増大している。
-こうした本のなかには、企業によるソフトウェア開発や、そのソフトウェアの社会的、政治的、認知的、認識論的な効果に関する洞察に富む議論を提供するものもある。（良い例として、ジョン・バッテル『ザ・サーチ：グーグルが世界を変えた』を見よ。）
+こうした本のなかには、企業によるソフトウェア開発や、そのソフトウェアの社会的、政治的、認知的、認識論的な効果に関する洞察に富む議論を提供するものもある（良い例として、ジョン・バッテル[『ザ・サーチ−−グーグルが世界を変えた』](http://j.mp/1fO8Glm)を見よ）。
 <!--
 There are some important exceptions. One is the open sourcemovement and related issues around copyright and IP that havebeen extensively discussed in many academic disciplines. We alsosee a steadily growing number of trade books about Google,Facebook, Amazon, eBay, Oracle, and other web giants. Some ofthese books offer insightful discussions of the software developedby these companies and the social, political, cognitive, and epistemologicaleffects of this software. (For a good example, see JohnBattelle, The Search: How Google and Its Rivals Rewrote the Rulesof Business and Transformed Our Culture.6)-->
 
@@ -67,7 +67,7 @@ So while we are in a better situation today when we put together our proposal fo
 If we limit critical discussions of digital culture to the notions of “open access,” “peer production,” “cyber,” “digital,” “Internet,” “networks,” “new media,” or “social media,” we will never be able to get to what is behind new representational and communication media and to understand what it really is and what it does. If we don’t address software itself, we are in danger of always dealing only with its effects rather than the causes: the output that appears on a computer screen rather than the programs and social cultures that produce these outputs. “Information society,” “knowledge society,” “network society,” “social media,” “online collaboration,” “crowdsourcing”— regardless of which new feature of contemporary existence a particular analysis has focused on, all these new features are enabled by software. It is time we focused on software itself.
 -->
 
-同様の意見が、ノア・ワードリプ-フルーインの『Expressive Processing』(2009)で表明されている。彼は、デジタル文学に関する書物に関して次のように言っている。「それらのほとんど全ては、デジタルメディアの機械が外部からどう見えるのかについて注力している。つまり、それらのアウトプットである……。どのような観点であれ、デジタルメディアについての記述はほぼ全て、重大なこと−−デジタルメディア作品が作られる実際のプロセス、デジタルメディアを可能にしている計算機械−−を見落としている」。私の本は、私が今日こうした「機械」の重要な部分だと理解しているもの−−アプリケーション・ソフトウェア−−を議論する（なぜならそれがユーザが見て直接使う唯一の部分であるからだ）。
+同様の意見が、ノア・ワードリプ-フルーインの[『Expressive Processing』](http://j.mp/1cqSlTO)(2009)で表明されている。彼は、デジタル文学に関する書物に関して次のように言っている。「それらのほとんど全ては、デジタルメディアの機械が外部からどう見えるのかについて注力している。つまり、それらのアウトプットである……。どのような観点であれ、デジタルメディアについての著述はほぼ全て、重大なこと−−デジタルメディア作品が作られる実際のプロセス、デジタルメディアを可能にしている計算機械−−を見落としている」。本書が議論するのは、私が今日こうした「機械」の重要な部分だと理解しているもの−−アプリケーション・ソフトウェアである（なぜならそれがユーザが見て直接使う唯一の部分であるからだ）。
 <!--
 A similar sentiment is expressed in Noah Wardrip-Fruin’s Expressive Processing (2009) when he says in relation to books about digital literature: “almost all of these have focused on what the machines of digital media look like from the outside: their output... regardless of perspective, writings on digital media almost all ignore something crucial: the actual processes that make digital media work, the computational machines that make digital media possible.”7 My book discusses what I take to be the key part of these “machines” today (because it is the only part which most users see and use directly): application software.
 -->
