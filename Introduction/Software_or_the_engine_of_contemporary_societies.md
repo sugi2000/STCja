@@ -1,7 +1,7 @@
 ###序章
 
 <!--Software, or the engine of contemporary societies-->
-##ソフトウェア、あるいは現代社会のエンジン
+##ソフトウェア、すなわち現代社会のエンジン
 
 1990年代の初め、世界で最も有名なブランドは、素材や商品を製造するか物理的実体を取り扱う業界内の会社だった。しかしながら現在、もっともよく知られたグローバル・ブランドのリストの先頭には、Google、Facebook、Microsoftのような名前が並んでいる。（じっさい2007年にGoogleはブランド認知における世界一の名前になった。）そして、すくなくとも米国では、もっとも広く読まれている新聞や雑誌−−ニューヨーク・タイムズ、USAトゥデイ、ビジネス・ウィークなど−−は、Facebook、Twitter、Apple、Google、そのほかのIT企業に関する日々のニュースを特集している。
 <!--
@@ -23,7 +23,7 @@ This list is very telling. The companies that deal with physical goods and energ
 This “something else” is software. Search engines, recommendation systems, mapping applications, blog tools, auction tools, instant messaging clients, and, of course, platforms which allow people to write new software—iOS, Android, Facebook, Windows, Linux—are in the center of the global economy, culture, social life, and, increasingly, politics. And this “cultural software”—cultural in a sense that it is directly used by hundreds of millions of people and that it carries “atoms” of culture—is only the visible part of a much larger software universe.
 -->
 
-私とベンヤミン・ブラットンが提案した未刊行の『ソフトウェア社会』(2003)で、ソフトウェアの重要性とそれが人文学や社会科学の研究において比較的軽視されていることを説明した。
+私とベンヤミン・ブラットンが提案した未刊行の『ソフトウェア社会』(2003)で、ソフトウェアの重要性とそのことが人文学や社会科学の研究において比較的軽視されていることを説明した。
 <!--
 In Software Society (2003), an unrealized book proposal put together by me and Benjamin Bratton, we described the importance of software and its relative invisibility in humanities and social science research:
 -->
