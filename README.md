@@ -22,7 +22,7 @@ Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Medi
 	- [ソフトウェア、すなわち現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)
 	- [ソフトウェア・スタディーズとは何か](Introduction/What_is_software_studies.md)
 	- [カルチュラル・ソフトウェア](Introduction/Cultural_software.md)
-	- [メディア・アプリケーション](Introduction/Media_application.md)
+	- [メディア・アプリケーション](Introduction/Media_applications.md)
 	- 文書からパフォーマンスまで
 	- カルチュラル・ソフトウェア史が存在しない理由
 	- 本書の流れ
@@ -36,10 +36,12 @@ Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Medi
 	- メディア・デザイン
 - 結論
 
-ライセンス
-----------
+---
+
+###License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/deed.en_US">Creative Commons Attribution-NonCommercial 4.0 International License</a>.  
 This work is published subject to a Creative Commons AttributionNon-Commercial Licence.You may share this work for non-commercial purposes only, provided you give attribution to the copyright holder and the publisher. For permission to publish commercial versions please contact Bloomsbury Academic.
 
 &copy; Lev Manovich 2003  
-&copy; Tatsuo Sugimoto 2014  
+Translate by Tatsuo Sugimoto 2014  

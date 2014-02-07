@@ -57,17 +57,23 @@ If software is indeed the contemporary equivalent of the combustion engine and e
 While the term “cultural software” was previously used metaphorically (see J. M. Balkin, Cultural Software: A Theory of Ideology, 2003), I am going to use it literally to refer to certain types of software that support actions we normally associate with “culture.” These cultural actions enabled by software can be divided into a number of categories (of course we should keep in
 mind that this is just one possible specific categorization systemamong many).
 -->
-* 表象、概念、信仰、美的価値を含んだ文化的作品やインタラクティヴなサービスを作成すること。（例えば、ミュージックヴィデオの編集、製品パッケージのデザイン、Webサイトやアプリの設計）。
-* そうした作品（の一部）をオンラインでアクセス、追加、共有、リミックスすること（例えば、Web上の新聞講読、YouTubeヴィデオの試聴、ブログ記事のコメントの追加）。
-* 情報や知識をオンラインで生成し共有すること（例えば、Wikipedia項目の編集、Google Earth上の場所の追加、ツイート内のリンク掲載）。
-* 電子メール、インスタント・メッセージ、ボイス・オーバー・IP、オンライン・テキスト、ビデオ・チャット、ソーシャル・ネットワーキングの機能（ウォール投稿、ポーク、イベント、写真タグ、ノート、場所など）を使った他者との交流。
-* インタラクティヴで文化的な経験への参加（例えば、コンピュータ・ゲームのプレイ）。
-* 好みを表明したりメタデータを追加することによる、オンラインの情報生態系へ参加（例えば、Google検索の利用時の新情報の自動生成、Google+の「+1」ボタンやFacebookの「いいね」ボタンのクリック、Twitterの「リツイート」機能の使用）。
-* これらすべての活動をサポートするソフトウェア・ツールやサービスの開発（例えば、インターネットを通じてデータの送受信を可能にするProcessingのためのライブラリのプログラミング、Photoshopのプラグインの開発、WordPressのテーマの制作）。
+1. 表象、概念、信仰、美的価値を含んだ文化的作品やインタラクティヴなサービスを作成すること。（例えば、ミュージックヴィデオの編集、製品パッケージのデザイン、Webサイトやアプリの設計）。
+2. そうした作品（の一部）をオンラインでアクセス、追加、共有、リミックスすること（例えば、Web上の新聞講読、YouTubeヴィデオの試聴、ブログ記事のコメントの追加）。
+3. 情報や知識をオンラインで生成し共有すること（例えば、Wikipedia項目の編集、Google Earth上の場所の追加、ツイート内のリンク掲載）。
+4. 電子メール、インスタント・メッセージ、ボイス・オーバー・IP、オンライン・テキスト、ビデオ・チャット、ソーシャル・ネットワーキングの機能（ウォール投稿、ポーク、イベント、写真タグ、ノート、場所など）を使った他者との交流。
+5. インタラクティヴで文化的な経験への参加（例えば、コンピュータ・ゲームのプレイ）。
+6. 好みを表明したりメタデータを追加することによる、オンラインの情報生態系へ参加（例えば、Google検索の利用時の新情報の自動生成、Google+の「+1」ボタンやFacebookの「いいね」ボタンのクリック、Twitterの「リツイート」機能の使用）。
+7. これらすべての活動をサポートするソフトウェア・ツールやサービスの開発（例えば、インターネットを通じてデータの送受信を可能にするProcessingのためのライブラリのプログラミング、Photoshopのプラグインの開発、WordPressのテーマの制作）。
 <!--
 1 Creating cultural artifacts and interactive services which contain representations, ideas, beliefs, and aesthetic values (for instance, editing a music video, designing a package for a product, designing a website or an app).2 Accessing, appending, sharing, and remixing such artifacts (or their parts) online (for instance, reading newspaper on the web, watching YouTube video, adding comments to a blog post).3 Creating and sharing information and knowledge online (for instance, editing a Wikipedia article, adding places in Google Earth, including a link in a tweet).4 Communicating with other people using email, instant message, voice-over IP, online text and video chat, social networking features such as wall postings, pokes, events, photo tags, notes, places, etc.5 Engaging in interactive cultural experiences (for instance, playing a computer game).6 Participating in the online information ecology by expressing preferences and adding metadata (for instance, automatically generating new information for Google Search whenever you use this service; clicking the “+1” button on Google+ or the “Like” button on Facebook; using the “retweet” function on Twitter).7 Developing software tools and services that support all these activities (for instance, programming a library for Processing that enables sending and receiving data over the Internet;20 writing a new plugin for Photoshop, creating a new theme for WordPress).
 -->
 
+技術的には、このソフトウェアは多様な方法で実装されているかもしれない。
+（「ソフトウェア・アーキテクチャ」としてのコンピュータ産業によれば）
+一般的な実装には、ユーザーのコンピュータ機器で実行されるスタンドアローンのアプリケーションや配布型アプリケーション（サーバー上のソフトウェアと通信するユーザーの端末上で動作するクライアント）、ピア・トゥ・ピア・ネットワーク（どのコンピュータもクライアントにもサーバーにもなる）が含まれる。
+これらにまったく馴染みがなくても心配はいらない。
+1990年代と2000年代にメディア・オーサリングを独占したIllstrator、Photoshop、After Effectsのような単一のデスクトップ・アプリケーションだけではなく、プロダクトやネットワーク・サービスの広い範囲をあつかう用語としての「カルチュラル・ソフトウェア」を理解すれば十分だ。
+例えば、企業のサーバ上で動作しているプログラムやデーターベース群をふくむFacebookやTwitterのようなソーシャル・ネットワーク・サービス（ある推計によれば2007年のGoogleは世界中に100万台以上のサーバーを走らせていた）、これらのサービス上で、電子メールの送信、チャット、近況投稿、ビデオ投稿、コメント投稿、そのほかの行為をするために人々が使っているプログラム（「クライアント」とよばれる）（ユーザーは[twitter.com](http://twitter.com/)だけでなく、[tweetdeck.com](http://tweetdeck.com/)、iOSやAndroidのTwitterアプリ、そのほか何十ものサードパーディのWebサイトやアプリを使ってTwitterにアクセスできる）。
 <!--
 Technically, this software may be implemented in a variety of ways. Popular implementations (referred to in the computer industry as “software architecture”) include stand-alone applications that run on the user’s computing device, distributed applications (a client
 running on the user’s device communicates with software on the server), and peer-to-peer networks (each computer becomes both a client and a server). If all this sounds completely unfamiliar, do not worry: all you need to understand is that “cultural software” as I will use this term covers a wide range of products and network services, as opposed to only single desktop applications such as Illustrator, Photoshop or After Effects that dominated media authoring in the 1990s and 2000s. For example, social network services such as Facebook and Twitter include multiple programs and databases running on company servers (for instance, in 2007 Google was running over one million servers around the world according to one estimate21) and the programs (called “clients”) used by people to send emails, chat, post updates, upload video, leave comments, and perform other tasks on these services. (For instance, one can access Twitter using twitter.com, or tweetdeck. com, Twitter apps for iOS, Android, and dozens of third party websites and apps.)
