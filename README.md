@@ -20,7 +20,7 @@ Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Medi
 - 序章
 	- [メディアの理解](Introduction/Understanding_Media.md)
 	- [ソフトウェア、すなわち現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)
-	- [ソフトウェア・スタディーズとは何か](Introduction/What_is_software_studies.md)
+	- [ソフトウェア・スタディーズとは](Introduction/What_is_software_studies.md)
 	- [カルチュラル・ソフトウェア](Introduction/Cultural_software.md)
 	- [メディア・アプリケーション](Introduction/Media_applications.md)
 	- 文書からパフォーマンスまで
