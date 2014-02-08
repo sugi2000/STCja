@@ -78,7 +78,7 @@ This book is about media software—its conceptual history, the ways it redefine
 and so on)—while a user is not always given the ability to add to or modify content, s/he always navigates and interacts with the existing content using interactive interface.
 -->
 
-今日の数十億のグローバル文化産業がメディア・アプリケーションによって実現したことを考えると、これらを分類できる方法がひとつも存在しないことは興味深い。
+今日の数十億ドルのグローバル文化産業がメディア・アプリケーションによって実現したことを考えると、これらを分類できる方法がひとつも存在しないことは興味深い。
 Wikipediaの[「アプリケーション・ソフトウェア」](http://en.wikipedia.org/wiki/Application_software)についての項目は、「メディア開発ソフトウェア」と「コンテンツ・アクセス・ソフトウェア」（Webブラウザ、メディア・プレイヤー、プレゼンテーション・アプリケーションにわかれている）を含んでいる。
 これは一般的には使えるが、完全に厳密とはいえない。
 なぜなら今日ほとんどの「コンテンツ・アクセス・ソフトウェア」は、すくなくとも何らかのメディア編集機能をもっているからだ。
@@ -115,7 +115,7 @@ Of course, people do not share everything online with others— at least, not ye
 <!--
 These and all other categories of software shift over time. For instance, during the 2000s the boundary between “personal information” and “public information” has been reconfigured as people started to routinely place their media on media sharing sites, and also communicate with others on social networks.-->
 
-事実、ソーシャル・メディア、ソーシャル・ネットワーキング・サービス、Webサイトのホスティングの存在の背後には、できるかぎりこの境界を消そうとする根拠がある。
+事実、ソーシャル・メディア、ソーシャル・ネットワーキング・サービス、Webサイトのホスティングの存在の背後には、できるかぎりこの境界を消し去る大きな理由がある。
 これらのサービスは、ユーザーの社交や文化生活の大部分をサイト上に導くように彼らを後押しすることで、多数の人々にさらに広告を売り、彼らのユーザー・ベースの持続的成長を確保するのだ。
 あなたの友人のほとんどが特定のサービスを使っていて、そこでさらなる情報、メディア、議論を提供しているとすれば、あなたは間違いなくそのサービスに参加するだろう。
 <!--
@@ -158,9 +158,9 @@ The interface category is particularly important for this book. I am interested 
 この用語は、WindowsやMac OSのようなオペレーティング・システム、AndroidやiOSのようなモバイルOSのインターレースを正確に説明する。
 それは、ユーザとコミュニケートするためにグラフィックに加えてあらゆるタイプのメディアを使っている、ゲーム・コンソールや携帯電話、さらにインタラクティブな店舗[^25]、ミュージアムのインスタレーションのインターフェースにさえ適用できる[^26]。
 
-[^25]: 例えば、NokiaとDieselのためのNanikaのプロジェクトを見よ。 http://www.nanikawa.com/; Audi City in London, opened 2012.
+[^25]: NokiaとDieselのためのNanikaのプロジェクトを見よ。 http://www.nanikawa.com/; Audi City in London, opened 2012.
 
-[^26]: 例えば、オスロのノーベル平和センターにあるインタラクティヴ・インスタレーションを見よ。Nobel Chamber, Nobel Field, and Nobel Electronic Wall Papers, http://www. nobelpeacecenter.org/en/exhibitions/peace-prize-laureates/
+[^26]: オスロのノーベル平和センターにあるインタラクティヴ・インスタレーションを見よ。Nobel Chamber, Nobel Field, and Nobel Electronic Wall Papers, http://www.nobelpeacecenter.org/en/exhibitions/peace-prize-laureates/
 
 <!--
 These functions offered by an application are embedded in application commands and tools. They define what you can do with a given app, and how you can do it. This is clear; but I need to make one important point about interfaces to avoid any confusion. Many people still think that contemporary computer devices use a Graphical User Interface (GUI). In reality, the original GUI of the early 1980s (icons, folders, menus) has been gradually extended to include other media and senses (sounds, animations, and vibration feedback which may accompany user interactions on a mobile device, voice input, multi-touch gesture interfaces, etc.) This is why the term “media interface” (used in the industry) is a more accurate description of how interfaces work today. The term accurately describes interfaces of computer operating systems such as Windows and Mac OS, and mobile OS such Android and iOS; it is even applicable to interfaces of game consoles and mobile phones, as well as interactive stores25 or museum installations which use all types of media besides graphics to communicate with the users.26
@@ -183,7 +183,7 @@ I also need to comment on the “media/content” vs. “data/information/knowle
 21世紀のほんのはじめに、データは専門領域を去り、ひろく社会の関心事となっている。
 データは、自らのデータ・ポータル（例えば、[data.gov](http://data.gov/)や[data.gov.uk](http://data.gov.uk/)）を作る政府や都市とともに、「セクシー」で「流行」になっている。
 データのビジュアライゼーションは、MOMAのような著名な美術館の展覧会（[「Design and Elastic Mind」展](http://www.moma.org/exhibitions/2008/elasticmind/)、2008）へ進出している。
-コンピュータ「おたく（ナード）」は、ハリウッド映画のヒーローになっている（[『ソーシャル・ネットワーク』](http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF_(%E6%98%A0%E7%94%BB\))2010）。
+コンピュータ「おたく（ナード）」は、ハリウッド映画のヒーローになっている（[『ソーシャル・ネットワーク』](http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF_(%E6%98%A0%E7%94%BB))2010）。
 ■そしてGoogleアナリティクス、Facebook、YouTube、Flickrはいずれも、ユーザのWebサイトやメディア共有アカウントの詳細なデータを提供する。
 もちろん、メディア・ソフトウェアのオペレーションは
 （研究、商用、芸術的目的のためのどんなメディアのコンピュータ処理も）
