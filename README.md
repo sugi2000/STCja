@@ -28,7 +28,7 @@
 	- [ソフトウェア・スタディーズとは](Introduction/What_is_software_studies.md)
 	- [カルチュラル・ソフトウェア](Introduction/Cultural_software.md)
 	- [メディア・アプリケーション](Introduction/Media_applications.md)
-	- 文書からパフォーマンスまで
+	- [文書からパフォーマンスへ](Introduction/From_documents_to_performances.md)
 	- カルチュラル・ソフトウェア史が存在しない理由
 	- 本書の流れ
 - 第1部　メディア・ソフトウェアの発明

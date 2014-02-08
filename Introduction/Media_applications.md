@@ -78,7 +78,7 @@ This book is about media software—its conceptual history, the ways it redefine
 and so on)—while a user is not always given the ability to add to or modify content, s/he always navigates and interacts with the existing content using interactive interface.
 -->
 
-今日の数十億ドルのグローバル文化産業がメディア・アプリケーションによって実現したことを考えると、これらを分類できる方法がひとつも存在しないことは興味深い。
+今日の数十億ドル規模のグローバル文化産業がメディア・アプリケーションによって実現したことを考えると、これらを分類できる方法がひとつも存在しないことは興味深い。
 Wikipediaの[「アプリケーション・ソフトウェア」](http://en.wikipedia.org/wiki/Application_software)についての項目は、「メディア開発ソフトウェア」と「コンテンツ・アクセス・ソフトウェア」（Webブラウザ、メディア・プレイヤー、プレゼンテーション・アプリケーションにわかれている）を含んでいる。
 これは一般的には使えるが、完全に厳密とはいえない。
 なぜなら今日ほとんどの「コンテンツ・アクセス・ソフトウェア」は、すくなくとも何らかのメディア編集機能をもっているからだ。
@@ -220,13 +220,38 @@ Software includes many other technologies and types, and computers and computer 
 <!--
 The reason for my choice is my commitment to understand the mainstream cultural practices rather than to emphasize (as many cultural critics do) the exceptions, no matter how progressive they may be. Although we do not have an exact number, I assume that the number of people who work in media and who can also program is tiny in comparison to the army of application users. Today, a typical professional graphic designer, film editor, product designer, architect, music artist—and certainly a typical person uploading videos to YouTube or adding photos and video on her/ his blog—can neither write nor read software code. (Being able to read and modify HTML markup, or copy already pre-packaged lines of Javascript code is very different from programming.) Therefore, if we want to understand how software has already re-shaped media both conceptually and practically, we have to take a close look at the everyday tools used by the great majority of both professional and non-professional users—i.e. application software, web-based software, and, of course, mobile apps. (This book highlights the first category at the expense of the second and the third—because at this point, creation of professional media still
 requires applications running on a laptop or desktop, often with a significant amount of RAM and large hard drives; and also because currently web-based and mobile software are still evolving quite rapidly in contrast to desktop applications such as Photoshop and Final Cut which change only incrementally from release to release).-->
+
+どのような定義であれ、歓迎する人もいれば、そうでない人もいる。
+したがって、「カルチュラル・ソフトウェア」（「メディア・ソフトウェア」はこの一部分である）という用語を定義した方法に対して起こりうる反論についても述べておきたい。
+「文化（カルチャー）」という用語は、コンピュータ上のファイルや実行可能なソフトウェア・プログラムやスクリプトとして存在する個別のメディアやデザイン「オブジェクト」にまとめられるものではない。
+文化は、記号、意味、価値、言語、慣習、信仰、主義、儀式、宗教、衣装、振る舞いのコード、その他多くの物質的、非物質的な要素や次元を含んでいる。
+したがって、文化人類学者、言語学者、社会学者、そして多くの人文学者は、これらすべての次元を、メディア・ファイルの制作や再生のツール群へと無批判にまとめているようにみえるものを歓迎しないだろう。
 <!--
 Any definition is likely to delight some people and to annoy others. Therefore, I also would like to address another likely objection to the way I defined the term “cultural software” (with “media software” being its subset). The term “culture” is not reducible to separate media and design “objects” which may exist as files on a computer and/or as executable software programs or scripts. It includes symbols, meanings, values, language, habits, beliefs, ideologies, rituals, religion, dress and behavioral codes, and many other material and immaterial elements and dimensions. Consequently, cultural anthropologists, linguists, sociologists, and many humanists may be annoyed at what may appear as an uncritical reduction of all these dimensions to a set of tools for creating and playing media files.-->
+
+今日「文化」と言っているものは、アプリケーション・ソフトウェアの特定部分とメディア・オブジェクトとそれらによって作られうる経験、と等しく見なせるのか。
+もちろんそうではない。
+しかしながら、私が言っていることは、そして本書で詳述しようとしていることは、20世紀の終わりに人間が、あらゆるものに「文化」として見なされるあたらしい要素を加えたことだ。
+その要素は広義ではソフトウェアであり、狭義ではコンテンツを制作、アクセスするためのアプリケーション・ソフトウェアである。
 <!--
-Am I saying that today “culture” is equated with a particular subset of application software and the media objects and experi- ences that can be created with their help? Of course not. However, what I am saying—and what I hope this book explicates in more detail—is that at the end of the twentieth century humans have added a fundamentally new dimension to everything that counts as “culture.” This dimension is software in general, and application software for creating and accessing content in particular.-->
+Am I saying that today “culture” is equated with a particular subset of application software and the media objects and experiences that can be created with their help? Of course not. However, what I am saying—and what I hope this book explicates in more detail—is that at the end of the twentieth century humans have added a fundamentally new dimension to everything that counts as “culture.” This dimension is software in general, and application software for creating and accessing content in particular.-->
+
+私は、あえて新しい要素のメタファーを使っている。
+つまり、「カルチュラル・ソフトウェア」はたんなる新しいオブジェクトではない。
+大きさや重要性は問題ではない。
+それは「文化」と呼んでいる空間に投げ込まれたのだ。
+したがって、ソフトウェアを、音楽、ビジュアル・デザイン、構造空間、ドレス・コード、言語、食料、クラブ・カルチャー、企業規範、話法と身体術などの用語群に追加できるたんなる別の用語として考察するのは不正確になるだろう。
+そして、私たちは確かに「ソフトウェアの文化」−−プログラミングの実際、プログラマーとソフトウェア企業の価値とイデオロギー、シリコンバレーとバンガロールの文化など−−を研究できるが、それだけしかやらなければ、ソフトウェアの本当の重要性を見落としてしまうだろう。
+アルファベット、数学、印刷機、燃焼機関、電気、集積回路のように、ソフトウェアはあらゆるものを適用するように再調整し再形成する−−または少なくとも、それをおこなうポテンシャルを有している。
+空間中の全部の点に新しい座標を追加する新しい次元を追加するように、文化にソフトウェアを「追加」することは、文化が作られるあらゆるもののアイデンティティを変化させる（この点において、ソフトウェアはマクルーハンが意味したものの完璧な事例である。彼は次のように書いた。「いかなる媒体やテクノロジーのメッセージも、人間の世界に導入されるスケール、ペース、パターンの変化である[^27]」）。
+
+[^27]: Marshall McLuhan, Understanding Media: The Extensions of Man (New York: McGraw Hill, 1964), quoted in New Media Reader, Noah Wardrip-Fruin and Nick Montfort (eds) (The MIT Press, 2003), p. 203.
 <!--
 I am using the metaphor of a new dimension on purpose. That is, “cultural software” is not simply a new object—no matter how large and important—which has been dropped into the space which we call “culture.” Thus, it would be imprecise to think of software as simply another term which we can add to the set which includes music, visual design, built spaces, dress codes, languages, food, club cultures, corporate norms, ways of talking and using a body, and so on. And while we can certainly study “the culture of software”—programming practices, values and ideologies of programmers and software companies, the cultures of Silicon Valley and Bangalore, etc.—if we only do this, we will miss the real importance of software. Like the alphabet, mathematics, printing press, combustion engine, electricity, and integrated circuits, software re-adjusts and re-shapes everything it
 is applied to—or at least, it has a potential to do this. Just as adding a new dimension adds a new coordinate to every point in space, “adding” software to culture changes the identity of everything that a culture is made from. (In this respect, software is a perfect example of what McLuhan meant when he wrote, the ‘message of any medium or technology is the change of scale or pace or pattern that it introduces into human affairs.”27)-->
+
+まとめると、現代社会は**ソフトウェア社会**として特徴づけることができ、文化は当然ながら**ソフトウェア文化**と呼ぶことができる。
+なぜなら今日のソフトウェアは、「文化」を彩っている物質的要素と多くの非物質的体系の両方を形作っている中心的役割を演じているからだ。
 <!--
 To summarize: our contemporary society can be characterized as a software society and our culture can be justifiably called a software culture—because today software plays a central role in shaping both the material elements and many of the immaterial structures that together make up “culture.”
 -->
