@@ -2,21 +2,26 @@
 
 ##About this project
 
-レフ・マノヴィッチ[『ソフトウェアが指揮を執る』](http://j.mp/1arlNqb)(2013)の日本語訳プロジェクトです。
+レフ・マノヴィッチ[『ソフトウェアが指揮を執る（ソフトウェア・テイクス・コマンド）』](http://j.mp/1arlNqb)(2013)の日本語訳プロジェクトです。
 
-Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Media*, Bloomsbury Academic.
+書誌情報
+: Manovich, Lev, 2013, *Software Takes Command: Extending the Language of New Media*, Bloomsbury Academic.
 
-原文は Creative Commons BY NC のライセンスで出版されています。
-そこでこの日本語訳も同じライセンスでgithub上で逐次公開することにしました。
+『Software Takes Command』公式サイト
+: [http://www.manovich.net/softbook/](http://www.manovich.net/softbook/)
+
+原著は Creative Commons BY NC のライセンスで出版されています。
+そこでこの日本語訳も同じライセンスでgithub上で逐次公開しています。
 
 不完全な試訳ですが、なるべく読みやすい翻訳をこころがけています。
 語訳のご指摘は、@sugi2000宛てやPull Requestでお願いします。
 正確なテキストは原文を参照してください。
 
-オリジナルにはないハイパーリンクをつけています。
+登場する人物、作品、サービスなどをかんたんに参照できるように、原文にはないハイパーリンクを適宜つけています。
 
 ##目次
 
+- 謝辞
 - 序章
 	- [メディアの理解](Introduction/Understanding_Media.md)
 	- [ソフトウェア、すなわち現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)

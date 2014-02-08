@@ -103,25 +103,132 @@ Facebook、一連のGoogle製品（Googleウェブ検索、Gmail、Googleマッ�
 While I will focus on media applications for creating and accessing “content” (i.e. media artifacts), cultural software also includes tools and services that are specifically designed for communication and sharing of information and knowledge, i.e. “social software” (categories 3–4 in my list). The examples include search engines, web browsers, blog editors, email applica- tions, instant messaging applications, wikis, social bookmarking, social networks, virtual worlds, and prediction markets. The familiar names include Facebook, the family of Google products (Google Web search, Gmail, Google Maps, Google+, etc.), Skype, MediaWiki, and Blogger. However, since at the end of the 2000s, numerous software apps and services started to include email, post,
 and chat functions (often via a dedicated “Share” menu), to an extent, all software became social software.
 -->
+
+もちろん人々は、少なくとも今のところ全ての人と何もかもオンラインで共有はしていない。
+したがって、発売されているどのコンピュータ端末にも搭載されているプロジェクト・マネージャ、データベース・アプリケーション、シンプル・テキスト・エディタ、ノート・アプリといった個人用の情報管理のためのソフトウェア・ツールも含めたほうがよい。
 <!--
 Of course, people do not share everything online with others— at least, not yet and not everybody. Therefore, we should also include software tools for personal information management such as project managers, database applications, and simple text editors or note-taking apps that are included with every computer device being sold.
 -->
+
+これらをふくめた全てのカテゴリーのソフトウェアはやがて変化する。
+たとえば、2000年代のあいだ「個人情報」と「パブリックな情報」の境界は、人々が日常的にメディア共有サイトを使いはじめたり、ソーシャル・ネットワークで人と交流しはじめたことで、再構成された。
 <!--
-These and all other categories of software shift over time. For instance, during the 2000s the boundary between “personal infor- mation” and “public information” has been reconfigured as people started to routinely place their media on media sharing sites, and also communicate with others on social networks.-->
+These and all other categories of software shift over time. For instance, during the 2000s the boundary between “personal information” and “public information” has been reconfigured as people started to routinely place their media on media sharing sites, and also communicate with others on social networks.-->
+
+事実、ソーシャル・メディア、ソーシャル・ネットワーキング・サービス、Webサイトのホスティングの存在の背後には、できるかぎりこの境界を消そうとする根拠がある。
+これらのサービスは、ユーザーの社交や文化生活の大部分をサイト上に導くように彼らを後押しすることで、多数の人々にさらに広告を売り、彼らのユーザー・ベースの持続的成長を確保するのだ。
+あなたの友人のほとんどが特定のサービスを使っていて、そこでさらなる情報、メディア、議論を提供しているとすれば、あなたは間違いなくそのサービスに参加するだろう。
 <!--
 In fact, the whole reason behind the existence of social media and social networking services and hosting websites is to erase this boundary as much as possible. By encouraging users to conduct larger parts of their social and cultural lives on their sites, these services can both sell more ads to more people and ensure the continuous growth of their user base. With more of your friends using a particular service and offering more information, media, and discussions there, you are more likely to also join that service.-->
+
+これらのサービスの多くは、元々のメディア・ホスティングやコミュニケーション、ソーシャル・ネットワーキング機能に加えて、徐々に高度なメディア編集や情報管理ツールを提供しはじめた。
+彼らは、（PC時代からの）アプリケーション・プログラム、オペレーション・システム、データ間という、別の一連の境界線をひろく消すことを成し遂げたのだ。
+とりわけFacebookは、様々なスタンド・アローンのコミュニケーション・プログラムやサービスを置き換えられる完全な「ソーシャル・プラットフォーム」として自サービスを位置づけることにとても意欲的だった。
 <!--
 As many of these services began to offer more and more advanced media editing and information management tools along with their original media hosting and communication and social networking functions, they did manage to largely erase another set of boundaries (from the PC era): those between application programs, operating system, and data. Facebook in particular was very aggressive in positioning itself as a complete “social platform” which can replace various stand-alone communication programs and services.-->
+
+ソーシャル・メディアの台頭とモバイル・メディア・プラットフォームの急増以前は、メディア制作、配信、消費を別々のプロセスとして研究することができた。
+同様に、我々は通常、制作ツール、配信テクノロジー、メディア・アクセス端末、プラットフォームを区別することができた。
+例えば、TVスタジオ、カメラ、照明、編集機器（制作）、送信システム（配信）、テレビ（アクセス）というように。
+一般的にソーシャル・メディアとクラウド・コンピューティングは多くの場合、この境界線を消去すると同時に新たなセットを導入する（クライアント／サーバー、オープン・アクセス／コマーシャル）。
+ソフトウェア・スタディーズの課題は、現在のソーシャル・メディア／クラウド・コンピューティングの枠組みが「コンテンツ」や「ソフトウェア・アプリケーション」といった用語の意味を体系的に再構成していることをつねに念頭に置きながらも、これらの用語を使えるようにすることだ。
 <!--
-Until the rise of social media and the proliferation of mobile media platforms, it was possible to study media production, dissemination, and consumption as separate processes. Similarly, we could usually separate production tools, distribution technol- ogies, and media access devices and platforms—for example, the TV studio, cameras, lighting, and editing machines (production), transmission systems (distribution), and television sets (access). Social media and cloud computing in general erase these bound- aries in many cases and at the same time introduce new ones (client/server, open access/commercial). The challenge of software studies is to be able to use terms such as “content” and “software
+Until the rise of social media and the proliferation of mobile media platforms, it was possible to study media production, dissemination, and consumption as separate processes. Similarly, we could usually separate production tools, distribution technologies, and media access devices and platforms—for example, the TV studio, cameras, lighting, and editing machines (production), transmission systems (distribution), and television sets (access). Social media and cloud computing in general erase these bound- aries in many cases and at the same time introduce new ones (client/server, open access/commercial). The challenge of software studies is to be able to use terms such as “content” and “software
 application” while always keeping in mind that the current social media/cloud computing paradigms are systematically reconfiguring the meaning of these terms.
 -->
+
+インタラクティヴ・メディアの制作はしばしば独自のコンピュータ・コードを書くことを必要とするため、**プログラミング環境**もカルチュラル・ソフトウェアの一種と考えられる。
+その上、アイコン、フォルダ、サウンド、アニメーション、振動する表面、タッチ・スクリーンといった**メディア・インターフェース**自体もまた、人々のメディアや他者との関わりあいを媒介するものであるから、カルチュラル・ソフトウェアである。
+ここで止めるつもりだが、このリストは、さらなるソフトウェアのカテゴリーをふくめることで容易に広げられる。
 <!--
 Since creation of interactive media often involves writing some original computer code, the programming environments also can be considered under cultural software. Moreover, the media interfaces themselves—icons, folders, sounds, animations, vibrating surfaces, and touch screens—are also cultural software, since these interfaces mediate people’s interactions with media and other people. I will stop here but this list can easily be extended to include additional categories of software as well.-->
+インターフェース・カテゴリーは、本書にとってとりわけ重要である。
+私は、いかに**ソフトウェアがユーザに見えている**のかに関心がある。
+すなわち、コンテンツの制作、共有、再利用、ミックス、制作、管理、共有、コミュニケートを提供する**機能**、これらの機能を提示していた**インターフェース**、これらの機能とインターフェース・デザインによってエンコードされた**ユーザに関する想定とモデル、ユーザのニーズ、社会**だ。
 <!--
 The interface category is particularly important for this book. I am interested in how software appears to users—i.e. what functions it offers to create, share, reuse, mix, create, manage, share and communicate content, the interfaces used to present these functions, and assumptions and models about a user, her/his needs, and society encoded in these functions and their interface design.-->
+
+アプリケーションによって提供されるこれらの機能は、アプリケーションのコマンドやツールに組み込まれている。
+それらは、与えられたアプリでできることや、どのようにできるかを定義している。
+それは明快だ。
+しかし、混乱を避けるためインターフェースに関するある重要な点を主張する必要がある。
+多くの人が現代のコンピュータ機器がグラフィカル・ユーザ・インターフェース(GUI)を使っているといまだに考えている。
+現実には、1980年代はじめのオリジナルのGUI（アイコン、フォルダ、メニュー）は、ほかのメディアや感覚（サウンド、アニメーション、モバイル端末のユーザ・インタラクションと連動する振動フィードバック、音声入力、マルチ・タッチ・ジェスチャー・インターフェースなど）をとりこんで徐々に拡張した。
+このことが、（業界で使われている）用語「メディア・インターフェース」が、現在インターフェースがどのように動作しているのかをより正確に説明している理由である。
+この用語は、WindowsやMac OSのようなオペレーティング・システム、AndroidやiOSのようなモバイルOSのインターレースを正確に説明する。
+それは、ユーザとコミュニケートするためにグラフィックに加えてあらゆるタイプのメディアを使っている、ゲーム・コンソールや携帯電話、さらにインタラクティブな店舗[^25]、ミュージアムのインスタレーションのインターフェースにさえ適用できる[^26]。
+
+[^25]: 例えば、NokiaとDieselのためのNanikaのプロジェクトを見よ。 http://www.nanikawa.com/; Audi City in London, opened 2012.
+
+[^26]: 例えば、オスロのノーベル平和センターにあるインタラクティヴ・インスタレーションを見よ。Nobel Chamber, Nobel Field, and Nobel Electronic Wall Papers, http://www. nobelpeacecenter.org/en/exhibitions/peace-prize-laureates/
+
 <!--
 These functions offered by an application are embedded in application commands and tools. They define what you can do with a given app, and how you can do it. This is clear; but I need to make one important point about interfaces to avoid any confusion. Many people still think that contemporary computer devices use a Graphical User Interface (GUI). In reality, the original GUI of the early 1980s (icons, folders, menus) has been gradually extended to include other media and senses (sounds, animations, and vibration feedback which may accompany user interactions on a mobile device, voice input, multi-touch gesture interfaces, etc.) This is why the term “media interface” (used in the industry) is a more accurate description of how interfaces work today. The term accurately describes interfaces of computer operating systems such as Windows and Mac OS, and mobile OS such Android and iOS; it is even applicable to interfaces of game consoles and mobile phones, as well as interactive stores25 or museum installations which use all types of media besides graphics to communicate with the users.26
+-->
+
+前述のカルチュラル・ソフトウェアのタイプのリストを整理するのに使った「メディア／コンテンツ」対「データ／情報／知識」のカテゴリーについてもコメントが必要だ。
+本書で使うその他多くのカテゴリーと同様に、これらは、まったく別々の箱というよりも、同じ連続する次元の二つの部分を示しているものとして考えている。
+長編映画は第一のカテゴリーの好例であり、Excelのスプレッドシートは第二のカテゴリーを代表している。
+しかし、こうした明瞭に分けられる例のあいだには、どちらにも属する多くのケースが存在する。
+例えば、スプレッドシートのデータからインフォメーション・ビジュアライゼーションを作ると、このビジュアライゼーションは両方のカテゴリーに均等にあてはまる。
+それは「データ」でもあり、洞察や「知識」をもたらす新しいデータ表現方法でもある。
+それは、写真や絵画と同じように私たちの感覚に訴えるビジュアル・メディアの一作品にもなるのだ。
+<!--
+I also need to comment on the “media/content” vs. “data/information/knowledge” categories used to organize my list of types of cultural software above. As with many other categories that I will use in this book, I think of them as marking the two parts of the same continuous dimension rather than as being discrete either/or boxes. A feature film is a good example of the first category, and an Excel spreadsheet represents the second category—but between such clear-cut examples, there are numerous other cases which are both. For example, if I make an information visualization of the data in the spreadsheet, this visualization now fits equally into both categories. It is still “data,” but data represented in a new way which allows us to arrive at insights and “knowledge.” It also becomes a piece of visual media which appeals to our senses in the same way as photographs and paintings do.-->
+
+我々の社会が相対するこの二つの用語を置いている理由は、メディアと情報産業の歴史に関係している。
+現代「メディア」は、18世紀後半と20世紀前半にかけて発展した技術と社会制度の産物である。
+大規模な新聞、雑誌や書籍の出版、写真、映画、ラジオ、テレビジョン、レコード産業。
+「データ」は、社会統計、経済、ビジネス・マネージメント、金融市場といったそれぞれの歴史をもった数々の専門分野から生まれている。
+21世紀のほんのはじめに、データは専門領域を去り、ひろく社会の関心事となっている。
+データは、自らのデータ・ポータル（例えば、[data.gov](http://data.gov/)や[data.gov.uk](http://data.gov.uk/)）を作る政府や都市とともに、「セクシー」で「流行」になっている。
+データのビジュアライゼーションは、MOMAのような著名な美術館の展覧会（[「Design and Elastic Mind」展](http://www.moma.org/exhibitions/2008/elasticmind/)、2008）へ進出している。
+コンピュータ「おたく（ナード）」は、ハリウッド映画のヒーローになっている（[『ソーシャル・ネットワーク』](http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF_(%E6%98%A0%E7%94%BB\))2010）。
+■そしてGoogleアナリティクス、Facebook、YouTube、Flickrはいずれも、ユーザのWebサイトやメディア共有アカウントの詳細なデータを提供する。
+もちろん、メディア・ソフトウェアのオペレーションは
+（研究、商用、芸術的目的のためのどんなメディアのコンピュータ処理も）
+コンピュータがデータとしてのメディアを代表しているから
+（ピクセルのような離散的要素、EPSのようなベクター・ファイルのベクター・グラフィックスを定義している数式）
+（本書で議論される）重要なメディア・テクノロジーとしてのメディア・ソフトウェアの発展とその採用は、徐々に訪れているメディアとデータの協調に対する重要な貢献者である。
+
+<!--
+The reason that our society places these two sets of terms in opposition has to do with the histories of the media and information industries. Modern “media” is the result of the technologies and institutions which developed between the second half of the eighteenth and first half of the twentieth centuries: large-scale newspaper, magazine and book publishing, photography, cinema, radio, television and the record industry. “Data” comes from a number of separate professional fields with distinct histories: social statistics, economics, business management, and financial markets. It is only in the beginning of the twenty-first century that data leaves professional domains to become of interest to society at large. Data becomes “sexy” and “hip,” with governments and cities creating their own data portals (for example, data.gov and data.gov.uk), visualizations of data entering exhibitions of major museums such as MOMA (Design and Elastic Mind, 2008), the computer “nerds” becoming heroes of Hollywood films (Social Network, 2010), and Google Analytics, Facebook, YouTube and Flickr all offering detailed data about your website or media sharing account. Of course, since media software operations (as well as any other computer processing of media for research, commercial or artistic purposes) are only possible because the computer represents media as data (discrete elements such as pixels, or equations defining vector graphics in vector files such as EPS), the development of media software and its adoption as the key media technology (discussed in this book) is an important contributor to the gradual coming together of media and data.
+-->
+
+ソフトウェアは、その他多くのテクノロジーとタイプを含む。
+コンピュータとコンピュータ端末は、メディアの制作と再生に加えて、その他多くの機能も果たす。
+そしてもちろん、ソフトウェアは実行するハードウェアを必要とする。
+ネットワークはデジタル文化の不可欠な要素でもある。
+したがって、メディアの制作、編集、再生のためのソフトウェア・アプリケーションに私が着目することで、ある種の人をいらだたせるだろう。
+皆がPhotoshop、Flash、Mayaなどメディア制作のソフトウェアを使ってはいない。
+相当な数の人が、自身のコンピュータ・プログラムやスクリプトを書いたり、他人が書いたプログラムを変更して、メディアと関わっている。
+こうした人は、Webサイト、Webアプリケーションなどインタラクティヴ・アプリケーションのコーディングを行うプログラマーであり、ソフトウェア・アーティストであり、新しいアルゴリズムを開発するコンピュータ科学者であり、Photoshopや高度なメディア・プログラミング言語を使う学生などである。
+彼らは皆、私に、どうしてプログラミングの活動の対極にある、消費者向け製品の形式をとったソフトウェア（すなわちアプリケーション）を選んだのかと質問するかもしれない。
+そして、ソフトウェア開発の段階的民主化や、プログラムやスクリプトを書くことができる専門家や学生の文化の段階的増大についても訊ねるだろう。
+アプリケーションを説明するよりも、プログラミングの振興のに力を注ぐべきではないのかと。
+<!--
+Software includes many other technologies and types, and computers and computer devices also perform lots of other functions besides creating and playing media. And of course, software needs hardware to run; and networks are also an essential part of our digital culture. Therefore, my focus on software applications for creating, editing, and playing media is likely to annoy some people. Not everybody uses Photoshop, Flash, Maya, and other applications to create media. A significant number of people work with media by writing their own computer programs and scripts, or modifying programs written by others. These are programmers responsible for the coding of websites, web applications, and other interactive applications, software artists, computer scientists working on the development of new algorithms, students using Processing and other high-level media programming languages, and other groups. All of them may ask me why I single out software in the form of consumer products (i.e. applications)—as opposed to the activity of programming? And what about the gradual democratization of software development and the gradual increase in the number of culture professionals and students who can program or write scripts? Should I not put my energy into promoting programming rather than explaining applications?-->
+
+私の選択の理由は、どんなにそれらが進展しているとしても（多くの文化批評家がするような）特異な例を強調するより、主流の文化的実践を理解することに取り組むからだ。
+正確な数字をもっていないが、メディアで働きプログラムもできる人々の数は、大勢のアプリケーション・ユーザーに比べれば少数である。
+今日の典型的なプロのグラフィック・デザイナー、映像編集者、製品デザイナー、建築家、音楽家は、そしてYouTubeにビデオを投稿したりブログに写真やビデオをのせる人も間違いなく、ソフトウェア・コードを書くことも読むこともできない（HTMLのマークアップを読んだり変更したりできることや、すでにパッケージ化されたJavaScriptのコードの行をコピーできることとプログラミングとは全く異なる）。
+したがって、概念的にも実際的にもソフトウェアがメディアをいかに再形成したのかを理解したければ、プロと非プロの双方の大部分の人々が日々使っているツールをくわしく調べていく必要がある。
+すなわち、アプリケーション・ソフトウェア、Webベースのソフトウェア、そしてもちろんモバイル・アプリである（本書では、第二と第三のカテゴリーを犠牲にして、第一のカテゴリーを強調する。
+なぜなら現時点では、プロのメディア制作にはまだ、相当のRAMと巨大なハードディスクを搭載するラップトップやデスクトップで動作するアプリケーションを必要としているからだ。
+それに、バージョンごとに徐々に変化するPhotoshopやFinal Cutのようなデスクトップ・アプリケーションとは違い、Webベースやモバイルのアプリは現在猛烈な勢いで進展しつづけているからだ
+）。
+<!--
+The reason for my choice is my commitment to understand the mainstream cultural practices rather than to emphasize (as many cultural critics do) the exceptions, no matter how progressive they may be. Although we do not have an exact number, I assume that the number of people who work in media and who can also program is tiny in comparison to the army of application users. Today, a typical professional graphic designer, film editor, product designer, architect, music artist—and certainly a typical person uploading videos to YouTube or adding photos and video on her/ his blog—can neither write nor read software code. (Being able to read and modify HTML markup, or copy already pre-packaged lines of Javascript code is very different from programming.) Therefore, if we want to understand how software has already re-shaped media both conceptually and practically, we have to take a close look at the everyday tools used by the great majority of both professional and non-professional users—i.e. application software, web-based software, and, of course, mobile apps. (This book highlights the first category at the expense of the second and the third—because at this point, creation of professional media still
+requires applications running on a laptop or desktop, often with a significant amount of RAM and large hard drives; and also because currently web-based and mobile software are still evolving quite rapidly in contrast to desktop applications such as Photoshop and Final Cut which change only incrementally from release to release).-->
+<!--
+Any definition is likely to delight some people and to annoy others. Therefore, I also would like to address another likely objection to the way I defined the term “cultural software” (with “media software” being its subset). The term “culture” is not reducible to separate media and design “objects” which may exist as files on a computer and/or as executable software programs or scripts. It includes symbols, meanings, values, language, habits, beliefs, ideologies, rituals, religion, dress and behavioral codes, and many other material and immaterial elements and dimensions. Consequently, cultural anthropologists, linguists, sociologists, and many humanists may be annoyed at what may appear as an uncritical reduction of all these dimensions to a set of tools for creating and playing media files.-->
+<!--
+Am I saying that today “culture” is equated with a particular subset of application software and the media objects and experi- ences that can be created with their help? Of course not. However, what I am saying—and what I hope this book explicates in more detail—is that at the end of the twentieth century humans have added a fundamentally new dimension to everything that counts as “culture.” This dimension is software in general, and application software for creating and accessing content in particular.-->
+<!--
+I am using the metaphor of a new dimension on purpose. That is, “cultural software” is not simply a new object—no matter how large and important—which has been dropped into the space which we call “culture.” Thus, it would be imprecise to think of software as simply another term which we can add to the set which includes music, visual design, built spaces, dress codes, languages, food, club cultures, corporate norms, ways of talking and using a body, and so on. And while we can certainly study “the culture of software”—programming practices, values and ideologies of programmers and software companies, the cultures of Silicon Valley and Bangalore, etc.—if we only do this, we will miss the real importance of software. Like the alphabet, mathematics, printing press, combustion engine, electricity, and integrated circuits, software re-adjusts and re-shapes everything it
+is applied to—or at least, it has a potential to do this. Just as adding a new dimension adds a new coordinate to every point in space, “adding” software to culture changes the identity of everything that a culture is made from. (In this respect, software is a perfect example of what McLuhan meant when he wrote, the ‘message of any medium or technology is the change of scale or pace or pattern that it introduces into human affairs.”27)-->
+<!--
+To summarize: our contemporary society can be characterized as a software society and our culture can be justifiably called a software culture—because today software plays a central role in shaping both the material elements and many of the immaterial structures that together make up “culture.”
 -->
 
 From documents to performances
