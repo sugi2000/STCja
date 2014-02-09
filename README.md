@@ -10,36 +10,7 @@
 『Software Takes Command』公式サイト
 : [http://www.manovich.net/softbook/](http://www.manovich.net/softbook/)
 
-原著は Creative Commons BY NC のライセンスで出版されています。
-そこでこの日本語訳も同じライセンスでgithub上で逐次公開しています。
-
-不完全な試訳ですが、なるべく読みやすい翻訳をこころがけています。
-語訳のご指摘は、@sugi2000宛てやPull Requestでお願いします。
-正確なテキストは原文を参照してください。
-
-登場する人物、作品、サービスなどをかんたんに参照できるように、原文にはないハイパーリンクを適宜つけています。
-
-##目次
-
-- 謝辞
-- 序章
-	- [メディアの理解](Introduction/Understanding_Media.md)
-	- [ソフトウェア、すなわち現代社会のエンジン](Introduction/Software_or_the_engine_of_contemporary_societies.md)
-	- [ソフトウェア・スタディーズとは](Introduction/What_is_software_studies.md)
-	- [カルチュラル・ソフトウェア](Introduction/Cultural_software.md)
-	- [メディア・アプリケーション](Introduction/Media_applications.md)
-	- [文書からパフォーマンスへ](Introduction/From_documents_to_performances.md)
-	- カルチュラル・ソフトウェア史が存在しない理由
-	- 本書の流れ
-- 第1部　メディア・ソフトウェアの発明
-	- アラン・ケイのユニヴァーサル・メディア・マシン
-	- メタメディアの理解
-- 第2部　交雑と進化
-	- 交雑（ハイブリダイゼーション）
-	- ソフト進化
-- 第3部　実行中のソフトウェア
-	- メディア・デザイン
-- 結論
+# [このページは移動しました。](http://sugi2000.github.io/software-takes-command/)
 
 ---
 
